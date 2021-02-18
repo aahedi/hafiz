@@ -25,7 +25,7 @@
 <plugin name="cordova-plugin-enable-multidex"/>
 <plugin name="cordova-plugin-globalization"/>
 <plugin name="cordova-plugin-app-version"/>
-<plugin name="cordova-plugin-sim"/>
+<!--<plugin name="cordova-plugin-sim"/>-->
 <plugin name="cordova-plugin-contacts"/>
 <plugin name="cordova-plugin-statusbar"/>
 <plugin name="cordova-plugin-navigationbar"/>
@@ -83,7 +83,7 @@
 <plugin name="cordova-plugin-app-launcher"/>
 <plugin name="cordova-plugin-dnd" spec="https://github.com/martinchuka/cordova-plugin-dnd.git"/>
 <!--<plugin name="cordova-plugin-ocr-time-from-camera" spec="https://github.com/thecodealer/cordova-plugin-ocr-time-from-camera.git"/>-->
-<plugin name="cordova-plugin-background-mode"/>
+<!--<plugin name="cordova-plugin-background-mode"/>-->
 <plugin name="cordova-plugin-android-permissions"/>
  <!--Required for Push Notification tutorial dari youtube -->
 <!--<plugin name="cordova-plugin-firebasex" spec="https://github.com/dpa99c/cordova-plugin-firebasex"/>
@@ -94,8 +94,8 @@
 </plugin>
 <plugin name="onesignal-cordova-plugin"/>
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
-<plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
-<plugin name="cordova-plugin-local-notification"/>
+<!--<plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
+<plugin name="cordova-plugin-local-notification"/>-->
 <platform  name="ios">
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
