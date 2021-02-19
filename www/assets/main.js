@@ -1,1 +1,981 @@
-var _0x416d=['padding','</li>','input','Qolqolah\x20dibagi\x20menjadi\x202,\x20yaitu\x20:','bacaan','getElementById','src','keys','Mode\x20normal\x20aktif','\x27);close_mui_dialog()>&#10063;\x20','Bagikan\x20Ayat','<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20xmlns:xlink=\x22http://www.w3.org/1999/xlink\x22\x20aria-hidden=\x22true\x22\x20focusable=\x22false\x22\x20width=\x221em\x22\x20height=\x221em\x22\x20style=\x22-ms-transform:\x20rotate(360deg);\x20-webkit-transform:\x20rotate(360deg);\x20transform:\x20rotate(360deg);\x22\x20preserveAspectRatio=\x22xMidYMid\x20meet\x22\x20viewBox=\x220\x200\x2024\x2024\x22><path\x20d=\x22M16.939\x2010.939L12\x2015.879l-4.939-4.94l-2.122\x202.122L12\x2020.121l7.061-7.06z\x22\x20fill=\x22black\x22/><path\x20d=\x22M16.939\x203.939L12\x208.879l-4.939-4.94l-2.122\x202.122L12\x2013.121l7.061-7.06z\x22\x20fill=\x22black\x22/></svg>','Pengaturan','data-toggled','value','<u\x20class=\x22gunah\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','go_hash(\x27surat_','overlay','touchend','left','change','<sub>&#169;\x20App\x20Develop\x20by:\x20<b>Hedi\x20Herdiana</b><br>Support:\x20aahedi@gmail.com</sub>','<b>','escape','1.\x20Qolqolah\x20Sughra\x20(\x20سغرى\x20\x20)','set_latar','لقدْ\x20,\x20حبْل\x20,\x20طلق\x20,\x20\x20أطْعمهم\x20,\x20\x20أجْر','test','indexOf','forEach','<button\x20class=\x22mui-btn\x20mui-btn--flat\x22\x20style=\x22float:right;background-color:#eee;\x22\x20onclick=','copy','toUpperCase','Show\x20Latin\x20Arabic','id-ID','75476WOYfBo','#fff','</sup>','Hurufnya\x20ada\x201,\x20yaitu\x20:\x20\x20\x20م','Play\x20surah','Apabila\x20terdapat\x20<i>nun\x20siddah\x20dan\x20atau\x20mim\x20siddah</i>\x20sebelum\x20huruf\x20hijaiyyah\x20berharkat,\x20maka\x20dibacanya\x20bergunnah\x20(ditahan\x20sepanjang\x203\x20harkat).','al_fatihah,al_baqarah,ali_imran,an_nisa,al_maidah,al_anam,al_araf,al_anfal,at_taubah,yunus,hud,yusuf,ar_rad,ibrahim,al_hijr,an_nahl,al_isra,al_kahfi,maryam,taha,al_anbiya,al_hajj,al_muminun,an_nur,al_furqan,asy_syuara,an_naml,al_qasas,al_ankabut,ar_rum,luqman,as_sajdah,al_ahzab,saba,fatir,yasin,as_saffat,sad,az_zumar,gafir,fussilat,asy_syura,az_zukhruf,ad_dukhan,al_jasiyah,al_ahqaf,muhammad,al_fath,al_hujurat,qaf,az_zariyat,at_tur,an_najm,al_qamar,ar_rahman,al_waqiah,al_hadid,al_mujadilah,al_hasyr,al_mumtahanah,as_saff,al_jumuah,al_munafiqun,at_tagabun,at_talaq,at_tahrim,al_mulk,al_qalam,al_haqqah,al_maarij,nuh,al_jinn,al_muzzammil,al_muddassir,al_qiyamah,al_insan,al_mursalat,an_naba,an_naziat,abasa,at_takwir,al_infitar,al_mutaffifin,al_insyiqaq,al_buruj,at_tariq,al_ala,al_gasyiyah,al_fajr,al_balad,asy_syams,al_lail,ad_duha,asy_syarh,at_tin,al_alaq,al_qadr,al_bayyinah,al_zalzalah,al_adiyat,al_qariah,at_takasur,al_asr,al_humazah,al_fil,quraisy,al_maun,al_kausar,al_kafirun,an_nasr,al_lahab,al_ikhlas,al_falaq,an_nas','<div\x20class=\x22mui-container\x22><div\x20class=\x22mui--text-title\x22>','Qolqolah\x20Sughra\x20adalah\x20apabila\x20ada\x20salah\x20satu\x20huruf\x20qolqolah\x20mati\x20karena\x20sukun,\x20maka\x20dibacanya\x20diceklokkan.','<b\x20style=\x22color:deeppink;\x22>Ikhfa\x20Safawi</b>\x20Hurufnya\x20ada\x201,\x20yaitu\x20:\x20\x20\x20ب','</b><br>','removeItem','bigunah','hafiz','</a><br><br>','Hurufnya\x20ada\x2015,\x20yaitu\x20:','Hurufnya\x20ada\x202,\x20yaitu\x20:\x20ر\x20ل','pop','touchmove','addEventListener','absolute','width','Tampilkan\x20Latin\x20Arab','<b\x20style\x20=\x20\x22color:\x20yellowgreen;\x22>\x20Idgham\x20meemi\x20</b>\x20Mutajanisain\x20means\x20the\x20same','<b\x20style=\x22color:darkorange;\x22>Gunnah\x20Masydidah</b>\x20artinya\x20ditahan\x20lama\x20karena\x20<i>tasydid</i>.','</label>\x20</div>','Ikhfa\x20is\x20if\x20a\x20<i>\x20nun\x20mati\x20or\x20tanwin\x20</i>\x20meets\x20one\x20of\x20the\x20letters,\x20then\x20it\x20will\x20be\x20vaguely\x20read.\x20','click','<h1\x20class=\x22page-title\x22>','Tandai\x20sebagai\x20Terakhir\x20Baca','300px','&apos;);close_mui_dialog()\x22><svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20xmlns:xlink=\x22http://www.w3.org/1999/xlink\x22\x20aria-hidden=\x22true\x22\x20focusable=\x22false\x22\x20width=\x221em\x22\x20height=\x221em\x22\x20style=\x22-ms-transform:\x20rotate(360deg);\x20-webkit-transform:\x20rotate(360deg);\x20transform:\x20rotate(360deg);\x22\x20preserveAspectRatio=\x22xMidYMid\x20meet\x22\x20viewBox=\x220\x200\x2016\x2016\x22><g\x20fill=\x22blue\x22><path\x20d=\x22M2\x203a.5.5\x200\x200\x200\x20.5.5h11a.5.5\x200\x200\x200\x200-1h-11A.5.5\x200\x200\x200\x202\x203zm2-2a.5.5\x200\x200\x200\x20.5.5h7a.5.5\x200\x200\x200\x200-1h-7A.5.5\x200\x200\x200\x204\x201zm2.765\x205.576A.5.5\x200\x200\x200\x206\x207v5a.5.5\x200\x200\x200\x20.765.424l4-2.5a.5.5\x200\x200\x200\x200-.848l-4-2.5z\x22/><path\x20d=\x22M1.5\x2014.5A1.5\x201.5\x200\x200\x201\x200\x2013V6a1.5\x201.5\x200\x200\x201\x201.5-1.5h13A1.5\x201.5\x200\x200\x201\x2016\x206v7a1.5\x201.5\x200\x200\x201-1.5\x201.5h-13zm13-1a.5.5\x200\x200\x200\x20.5-.5V6a.5.5\x200\x200\x200-.5-.5h-13A.5.5\x200\x200\x200\x201\x206v7a.5.5\x200\x200\x200\x20.5.5h13z\x22/></g></svg>\x20','<p\x20onclick=\x22terakhir_baca();\x22>&#182;\x20<b>','473514uxnNHJ','Play\x20verse','margin','getElementsByClassName','volume','ك\x20ق\x20ف\x20ظ\x20ط\x20ض\x20ص\x20ش\x20س\x20ز\x20ذ\x20د\x20ج\x20ث\x20ت','ً\x20ٌ\x20ٍ\x20ً','There\x20are\x202\x20letters,\x20namely:\x20مّ,\x20نّ','gulir','terakhir_baca','Search\x20in\x20surah\x20','Ikhfa\x20adalah\x20apabila\x20ada\x20<i>nun\x20mati</i>\x20atau\x20<i>tanwin</i>\x20bertemu\x20dengan\x20salah\x20satu\x20hurufnya,\x20maka\x20dibacanya\x20samar-samar.','Show\x20Translation','loop','<span\x20class=\x22bacaan\x22\x20style=\x22display:','<b\x20style\x20=\x20\x22color:\x20gray;\x22>\x20Idgham\x20Bilagunnah\x20</b>\x20Meaning:\x20not\x20with\x20a\x20drone.','ayat','createDocumentFragment','querySelectorAll','</b>\x20','></ol>','onclick','.mp3','auto','nav-trigger','length','Contohnya\x20:','<span\x20style=\x22position:relative;margin:0px;font-size:15px;color:blue;\x22\x20class=\x22play_all\x22\x20onclick=\x22PlayPause(&apos;au1&apos;,&apos;','bilagunah','keyup','gunah','15px','</span></div>','<b\x20style\x20=\x20\x22color:\x20darkorange;\x22>\x20Gunnah\x20Masydidah\x20</b>\x20means\x20being\x20detained\x20for\x20a\x20long\x20time\x20because\x20of\x20<i>\x20tasydid\x20</i>.','none','focus','There\x20are\x20no\x20verses\x20marked\x20as\x20Last\x20Read.\x20\x0aPlease\x20tap\x20on\x20a\x20verse\x20to\x20mark\x20it','Share\x20verse','parentNode','&apos;);close_mui_dialog()\x22><svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20xmlns:xlink=\x22http://www.w3.org/1999/xlink\x22\x20aria-hidden=\x22true\x22\x20focusable=\x22false\x22\x20width=\x221em\x22\x20height=\x221em\x22\x20style=\x22-ms-transform:\x20rotate(360deg);\x20-webkit-transform:\x20rotate(360deg);\x20transform:\x20rotate(360deg);\x22\x20preserveAspectRatio=\x22xMidYMid\x20meet\x22\x20viewBox=\x220\x200\x2024\x2024\x22><g\x20fill=\x22none\x22><path\x20fill-rule=\x22evenodd\x22\x20clip-rule=\x22evenodd\x22\x20d=\x22M12\x2021a9\x209\x200\x201\x200\x200-18a9\x209\x200\x200\x200\x200\x2018zm0\x202c6.075\x200\x2011-4.925\x2011-11S18.075\x201\x2012\x201S1\x205.925\x201\x2012s4.925\x2011\x2011\x2011z\x22\x20fill=\x22blue\x22/><path\x20d=\x22M16\x2012l-6\x204.33V7.67L16\x2012z\x22\x20fill=\x22blue\x22/></g></svg>\x20','Hurufnya\x20ada\x201,\x20yaitu\x20:\x20ب','&apos;)\x22\x20style=\x22opacity:\x2030%;margin-top:\x203px;right:\x2085px;\x22\x20class=\x22play\x22\x20onclick=\x22play_m(this);\x22><svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20xmlns:xlink=\x22http://www.w3.org/1999/xlink\x22\x20aria-hidden=\x22true\x22\x20focusable=\x22false\x22\x20width=\x221em\x22\x20height=\x221em\x22\x20style=\x22-ms-transform:\x20rotate(360deg);\x20-webkit-transform:\x20rotate(360deg);\x20transform:\x20rotate(360deg);\x22\x20preserveAspectRatio=\x22xMidYMid\x20meet\x22\x20viewBox=\x220\x200\x2016\x2016\x22><g\x20fill=\x22blue\x22><path\x20d=\x22M2\x203a.5.5\x200\x200\x200\x20.5.5h11a.5.5\x200\x200\x200\x200-1h-11A.5.5\x200\x200\x200\x202\x203zm2-2a.5.5\x200\x200\x200\x20.5.5h7a.5.5\x200\x200\x200\x200-1h-7A.5.5\x200\x200\x200\x204\x201zm2.765\x205.576A.5.5\x200\x200\x200\x206\x207v5a.5.5\x200\x200\x200\x20.765.424l4-2.5a.5.5\x200\x200\x200\x200-.848l-4-2.5z\x22/><path\x20d=\x22M1.5\x2014.5A1.5\x201.5\x200\x200\x201\x200\x2013V6a1.5\x201.5\x200\x200\x201\x201.5-1.5h13A1.5\x201.5\x200\x200\x201\x2016\x206v7a1.5\x201.5\x200\x200\x201-1.5\x201.5h-13zm13-1a.5.5\x200\x200\x200\x20.5-.5V6a.5.5\x200\x200\x200-.5-.5h-13A.5.5\x200\x200\x200\x201\x206v7a.5.5\x200\x200\x200\x20.5.5h13z\x22/></g></svg></span></span>','div','dataset','\x20<sup\x20class=\x22ay_sup\x22>','match','Sughras\x20Qolqolah\x20is\x20if\x20one\x20of\x20the\x20qolqolah\x20letters\x20dies\x20because\x20of\x20breadfruit,\x20then\x20it\x20is\x20read\x20it\x20is\x20blocked.','map','gold','telah\x20disalin','Idgham\x20Mimi\x20adalah\x20apabila\x20ada\x20<i>mim\x20mati</i>\x20bertemu\x20dengan\x20<i>mim\x20hidup</i>,\x20maka\x20dibacanya\x20harus\x20berdengung.','\x22><label><input\x20id=\x22','There\x20are\x204\x20letters,\x20namely:\x20(يمنو)\x20ي\x20م\x20ن\x20و','Achievement\x20of\x20Memorization','</div></div>','appendChild','className','type','Mark\x20as\x20Last\x20Read','68325bIToZS','set_latin','includes','><strong>Cancel</strong></button>','backgroundColor','817120szkaxg','search','<b\x20style\x20=\x20\x22color:\x20blue;\x22>\x20Iqlab\x20</b>\x20means\x20changing\x20(changing\x20the\x20letter\x20nun\x20to\x20the\x20letter\x20meem).','Memorized','<span\x20style=\x22position:relative;margin:0px;font-size:15px;color:blue;\x22\x20class=\x22play\x22\x20onclick=\x22PlayPause(&apos;au1&apos;,&apos;','1.\x20Qolqolah\x20Sughra\x20(سغرى)\x20','\x20tidak\x20bisa\x20diputar\x20silahkan\x20nyalakan\x20internet\x20anda','en_','.arti','onmouseup','<u\x20class=\x22bilagunah\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','لقدْ,\x20حبْل,\x20طلق,\x20أطْعمهم,\x20أجْر','<div\x20class=\x22mui-checkbox\x22><label><input\x20id=\x22set_latin\x22\x20onclick=\x22toggle(this.id,document.querySelectorAll(&apos;.bacaan&apos;))\x22\x20type=\x22checkbox\x22\x20','Sughra\x20means:\x20light\x20(small).','Ketik\x20nama\x20surat\x20&\x20pilih\x20hasil\x20pencarian.','&nbsp;','<b\x20style=\x22color:blue;\x22>Iqlab</b>\x20artinya\x20mengganti\x20(mengganti\x20huruf\x20nun\x20ke\x20huruf\x20mim).','Pencapaian\x20Hafalan','50%','join','<a\x20onclick=bagikan(\x27','hsl(','<b\x20style=\x22color:red;\x22>Ikhfa</b>\x20artinya\x20samar-samar.\x20(seperti\x20bunyi\x20<i>ng</i>\x20dalam\x20bahasa\x20Indonesia).','<br>','hz_','hafalan','This\x20verse\x20is\x20marked\x20as\x20Last\x20Read','surat','\x5c$&','set_hafiz','atur','bg_adem','checked','Hurufnya\x20ada\x202,\x20yaitu\x20:\x20مّ\x20,\x20نّ','children','</b></p>','<span\x20style=\x22color:gold;font-size:20px;\x22>','<div\x20class=\x22mui-checkbox\x22\x20style=\x22display:','iqlab','clipboard','There\x20is\x201\x20letter,\x20namely:\x20م','%)</div>\x20</li>','play','The\x20letter\x20has\x201,\x20namely:\x20ب','693128HXOHXA','querySelector','<b\x20style=\x22color:yellowgreen;\x22>Idgham\x20Mimi</b>\x20Mutajanisain\x20artinya\x20yang\x20sejenis','Last\x20read','getSelection','\x20ayat</sup><sup\x20class=\x22tu_sup\x22>','<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20xmlns:xlink=\x22http://www.w3.org/1999/xlink\x22\x20aria-hidden=\x22true\x22\x20focusable=\x22false\x22\x20width=\x221em\x22\x20height=\x221em\x22\x20style=\x22-ms-transform:\x20rotate(360deg);\x20-webkit-transform:\x20rotate(360deg);\x20transform:\x20rotate(360deg);\x22\x20preserveAspectRatio=\x22xMidYMid\x20meet\x22\x20viewBox=\x220\x200\x2024\x2024\x22><path\x20d=\x22M10\x2018a1\x201\x200\x200\x201-1\x201H8a1\x201\x200\x200\x201-1-1V6a1\x201\x200\x200\x201\x201-1h1a1\x201\x200\x200\x201\x201\x201v12zm7\x200a1\x201\x200\x200\x201-1\x201h-1a1\x201\x200\x200\x201-1-1V6a1\x201\x200\x200\x201\x201-1h1a1\x201\x200\x200\x201\x201\x201v12z\x22\x20fill=\x22white\x22\x20fill-rule=\x22evenodd\x22/></svg>','display','<u\x20class=\x22qalqalah\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','removeAttribute','\x27);close_mui_dialog()>&#182;\x20','aHR0cHM6Ly9wbGF5Lm15LmlkL2hhZml6L2hxLmpz','qalqalah','can\x20not\x20be\x20played,\x20please\x20turn\x20on\x20your\x20internet','\x27);close_mui_dialog()>&#10149;\x20','&apos;,&apos;','createElement','tanda','Kubra\x20means:\x20terrible\x20(big).','style','set_tajwid','scrollTo','\x22\x20onclick=\x22hafal(this.id)\x22\x20type=\x22checkbox\x22\x20','</a><br>','transform','\x27);autocomplete_result.innerHTML=\x27\x27;autocomplete_result.style.display=\x27none\x27;','verses','userAgent','\x22\x20style=\x22display:','There\x20are\x2015\x20letters,\x20namely:','toFixed','/mishary_rashid/','<u\x20class=\x22mimi\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','<u\x20class=\x22ifa_safawi\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','ol\x20>\x20li',';this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode);document.body.removeAttribute(&apos;class&apos;)','.c_black','onerror','<span\x20onclick=\x22PlayPause(&apos;au1&apos;,&apos;','1MfVIWi','Kubra\x20artinya\x20:\x20dahsyat\x20(besar).','6COMMge','Terakhir\x20Dibaca','onselectionchange','For\x20example:','number','buka','<u\x20class=\x22bigunah\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','makkiyah','Idgham\x20meemee\x20is\x20if\x20there\x20is\x20a\x20dead\x20meem\x20who\x20meets\x20a\x20live\x20meem,\x20then\x20the\x20reading\x20must\x20be\x20buzzing.','setItem','textarea','no_bg','catch','Iqlab\x20is\x20when\x20the\x20letter\x20<i>\x20nun\x20death\x20or\x20tanwin\x20</i>\x20meets\x20the\x20letter\x20Ba,\x20then\x20it\x20is\x20read\x20balem.\x20','classList','trim','index.html#','replace','1VvAHkt','Random\x20Background\x20Color','socialsharing','<br>&nbsp;','</sup></h1></header>','<li><div\x20class=\x22progress\x22\x20style=\x22background-size:','getComputedStyle','Ikhfa\x20Safawi\x20is\x20if\x20there\x20is\x20a\x20<i>\x20dead\x20meem\x20</i>\x20meets\x20the\x20letter\x22\x20ba\x20\x22alive\x20</i>,\x20then\x20the\x20reading\x20must\x20be\x20buzzing.','userLanguage','Hafiz\x20mode\x20enabled','319317OZtNEP','Play\x20ayat','translate(-50%,\x20-50%)','set_arti','juz\x20','Idgham\x20bilagunnah\x20is\x20if\x20there\x20is\x20<i>\x20nun\x20mati\x20or\x20tanwin\x20</i>\x20meeting\x20one\x20of\x20the\x20letters,\x20then\x20it\x20will\x20not\x20be\x20read\x20buzzing.','random','innerHTML','plugins','<br><br>','capaian','170px','class','%\x20100%\x20!important;\x22><b>','touchstart','</b>','Qolqolah\x20Kubra\x20is\x20if\x20one\x20of\x20the\x20qolqolah\x20letters\x20dies\x20at\x20the\x20end\x20of\x20a\x20sentence\x20(because\x20of\x20waqof),\x20then\x20reading\x20it\x20is\x20blocked.','arti','language','Hurufnya\x20ada\x205,\x20yaitu\x20:\x20ق\x20ط\x20د\x20ج\x20ب','<br><br><a\x20onclick=tandai(\x27','ifa_safawi','</span>','Terakhir\x20dibaca','<u\x20class=\x22iqlab\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>','QS:\x20','block','There\x20are\x202\x20letters,\x20namely:\x20ر\x20ل','location','Settings','mui-overlay','Qolqolah\x20Kubra\x20adalah\x20apabila\x20ada\x20salah\x20satu\x20huruf\x20qolqolah\x20mati\x20di\x20akhir\x20kalimat\x20(karena\x20waqof),\x20maka\x20dibacanya\x20diceklokkan.','body','Play\x20Surat','remove','1.1,2.142,2.253,3.92,4.24,4.148,5.83,6.111,7.88,8.41,9.94,11.6,12.53,15.2,17.1,18.75,21.1,23.1,25.21,27.60,29.45,33.31,36.22,39.32,41.47,46.1,51.31,58.1,67.1,78.1','2.\x20Qolqolah\x20Kubra\x20(\x20قبرﻯ\x20\x20)','getItem','tidak\x20bisa\x20diputar,\x20silahkan\x20nyalakan\x20internet\x20anda','138563pRqqhd','pause','black','001\x20Al\x20Fatihaah,002\x20Al\x20Baqoroh,003\x20Ali\x20\x27Imroon,004\x20An\x20Nisaa\x27,005\x20Al\x20Maa\x27idah,006\x20Al\x20An\x27aam,007\x20Al\x20A\x27raaf,008\x20Al\x20Anfaal,009\x20At\x20Taubah,010\x20Yuunus,011\x20Huud,012\x20Yuusuf,013\x20Ar\x20Ra\x27du,014\x20Ibrahim,015\x20Al\x20Hijr,016\x20An\x20Nahl,017\x20Al\x20Israa\x27,018\x20Al\x20Kahfi,019\x20Maryam,020\x20Thooha,021\x20Al\x20Anbiyaa,022\x20Al\x20Haj,023\x20Al\x20Mu\x27minuun,024\x20An\x20Nuur,025\x20Al\x20Furqoon,026\x20Asy\x20Syu\x27aro,027\x20An\x20Naml,028\x20Al\x20Qoshosh,029\x20Al\x20\x27Ankabuut,030\x20Ar\x20Ruum,031\x20Luqmaan,032\x20As\x20Sajadah,033\x20Al\x20Ahzaab,034\x20Saba\x27,035\x20Faathir,036\x20Yaasiin,037\x20Ash\x20Shooffaat,038\x20Shood,039\x20Az\x20Zumar,040\x20Ghoofir,041\x20Fushshilat,042\x20Asy\x20Syuro,043\x20Az\x20Zukhruf,044\x20Ad\x20Duhaan,045\x20Al\x20Jaatsiyah,046\x20Al\x20Ahqaf,047\x20Muhammad,048\x20Al\x20Fath,049\x20Al\x20Hujurot,050\x20Qoof,051\x20Adz\x20Dzaariyat,052\x20Thuur,053\x20An\x20Najm,054\x20Al\x20Qomar,055\x20Ar\x20Rohmaan,056\x20Al\x20Waaqi\x27ah,057\x20Al\x20Hadiid,058\x20Al\x20Mujaadilah,059\x20Al\x20Hasyr,060.Al\x20Mumtahanahfix,061.Ash\x20Shaff,062.Al\x20Jumu\x27ah,063.Al\x20Munafiqun,064.At\x20Taghabun,065.At\x20Talaq,066.At\x20Tahrim,067.Al\x20Mulk,068.Al\x20Qalam,069.Al\x20Haqqah,070.Al\x20Ma\x27arij,071\x20Nuh,072\x20Al\x20Jin,073\x20Al\x20Muzzammil,074\x20Al\x20Muddatsir,075\x20Al\x20Qiyamah,076\x20Al\x20Insaan,077.Al\x20Mursalat,078\x20An\x20Naba`,079\x20An\x20Naazi\x27aat,080\x20\x27Abasa,081\x20At\x20Takwiir,082\x20Al\x20Infithoor,083\x20Al\x20Muthoffifiin,084\x20Al\x20Insyiqooq,085\x20Al\x20Buruuj,086\x20Ath\x20Thooriq,087\x20Al\x20A\x27laa,088\x20Al\x20Ghoosyiyah,089\x20Al\x20Fajr,090\x20Al\x20Balad,091\x20Asy\x20Syams,092\x20Al\x20Lail,093\x20Adh\x20Dhuha,094\x20An\x20Nasyroh,095\x20At\x20Tiin,096\x20Al\x20\x27Alaq,097\x20Al\x20Qodr,098\x20Al\x20Bayyinah,099\x20Al\x20Zalzalah,100\x20Al\x20\x27Aadiyaat,101\x20Al\x20Qoori\x27ah,102\x20At\x20Takaatsur,103\x20Al\x20\x27Ashr,104\x20Al\x20Humazah,105\x20Al\x20Fiil,106\x20Quroisy,107\x20Al\x20Maa\x27uun,108\x20Al\x20Kautsar,109\x20Al\x20Kaafiruun,110\x20An\x20Nashr,111\x20Al\x20Masad,112\x20Al\x20Ikhlas,113\x20Al\x20Falaq,114\x20An\x20Naas,115\x20Do\x27a\x20Khattam','Belum\x20ada\x20ayat\x20yang\x20ditandai\x20sebagai\x20Terakhir\x20Baca\x20\x0aSilahkan\x20ketuk\x20pada\x20salah\x20satu\x20ayat\x20untuk\x20menandai','toLowerCase','\x22\x20class=\x22bismillah\x22>بِسْمِ\x20اللّٰهِ\x20الرَّحْمٰنِ\x20الرَّحِيْمِ</p>','activeElement','ikhfa','<b\x20style\x20=\x20\x22color:\x20deeppink;\x22>\x20Ikhfa\x20Safawi\x20</b>\x20There\x20is\x201\x20letter,\x20namely:\x20ب','\x22\x20class=\x22','filter','toggle','/murotal/afasy/','split','setAttribute','getPropertyValue','hash','<span\x20class=\x22arti\x22\x20style=\x22display:','<span\x20class=\x22ayat\x22\x20title=\x22','toggled','mimi','selectionStart','from','c_black','If\x20there\x20is\x20<i>\x20nun\x20siddah\x20or\x20meem\x20siddah\x20</i>\x20before\x20the\x20hijaiyyah\x20letter\x20has\x20a\x20dignity,\x20then\x20it\x20is\x20read\x20useless\x20(held\x20for\x203\x20digits).\x20','\x20style=\x22background:\x20','toString','%)</b><br><ul\x20id=\x22progress\x22>','ol\x20>\x20li\x20>\x20span\x20>\x20u'];var _0x58fe=function(_0x371272,_0x1277e7){_0x371272=_0x371272-0x9d;var _0x416d76=_0x416d[_0x371272];return _0x416d76;};var _0x28f1b0=_0x58fe;(function(_0x411343,_0x447a6a){var _0x992eb2=_0x58fe;while(!![]){try{var _0x3a730f=-parseInt(_0x992eb2(0xb6))*-parseInt(_0x992eb2(0x15d))+parseInt(_0x992eb2(0xd4))+-parseInt(_0x992eb2(0x1c9))+-parseInt(_0x992eb2(0xca))*parseInt(_0x992eb2(0xfb))+parseInt(_0x992eb2(0x19d))+-parseInt(_0x992eb2(0xb8))*parseInt(_0x992eb2(0x198))+parseInt(_0x992eb2(0x13c));if(_0x3a730f===_0x447a6a)break;else _0x411343['push'](_0x411343['shift']());}catch(_0x664cb3){_0x411343['push'](_0x411343['shift']());}}}(_0x416d,0x6c58a));var userLang=navigator[_0x28f1b0(0xe6)]||navigator[_0x28f1b0(0xd2)],surat=_0x28f1b0(0x142),file=_0x28f1b0(0xfe),juz=_0x28f1b0(0xf7),madaniyah='al_baqarah,ali_imran,an_nisa,al_maidah,al_anfal,at_taubah,al_hajj,an_nur,al_ahzab,muhammad,al_fath,al_hujurat,ar_rahman,al_hadid,al_mujadilah,al_hasyr,al_mumtahanah,as_saff,al_jumuah,al_munafiqun,at_tagabun,at_talaq,at_tahrim,al_insan,al_bayyinah,al_zalzalah,an_nasr',source=Base64['decode'](_0x28f1b0(0x1d4)),au_surat=source+_0x28f1b0(0xae),au_ayat=source+_0x28f1b0(0x108),arr_juz=juz[_0x28f1b0(0x109)](','),arr_madaniyah=madaniyah['split'](','),arr_files=file[_0x28f1b0(0x109)](',');function no_juz(_0x45318e){var _0x42caaf=_0x28f1b0,_0x2939ff=arr_juz[_0x42caaf(0x19a)](_0x45318e),_0x16fb1c=arr_juz[_0x42caaf(0x135)](_0x45318e)+0x1;return _0x2939ff==!![]?_0x42caaf(0xd8)+_0x16fb1c:'';}function turun(_0x4b26b0){var _0x3079f1=_0x28f1b0,_0x3e4aa4=arr_madaniyah[_0x3079f1(0x19a)](_0x4b26b0);return _0x3e4aa4==!![]?'madaniyah':_0x3079f1(0xbf);}localStorage[_0x28f1b0(0xf9)]('set_latin')===null&&localStorage[_0x28f1b0(0xc1)](_0x28f1b0(0x199),_0x28f1b0(0x1bd));;localStorage[_0x28f1b0(0xf9)]('set_arti')===null&&localStorage['setItem'](_0x28f1b0(0xd7),_0x28f1b0(0x1bd));;localStorage['getItem'](_0x28f1b0(0x132))===null&&localStorage[_0x28f1b0(0xc1)](_0x28f1b0(0x132),'no_bg');;var arr_surat=surat[_0x28f1b0(0x109)](','),ol_surat,bismi;window[_0x28f1b0(0xf0)][_0x28f1b0(0x10c)]='',muat(localStorage[_0x28f1b0(0xf9)](_0x28f1b0(0xbd)));function muat(_0x3cb938){var _0x546ef2=_0x28f1b0;document[_0x546ef2(0x160)]('surat')[0x0][_0x546ef2(0xdb)]='';var _0x10353=_0x3cb938[_0x546ef2(0xc9)](/surat_/g,''),_0x2ea82b;_0x10353===null?_0x2ea82b=0x0:_0x2ea82b=Number(arr_surat[_0x546ef2(0x135)](_0x10353[_0x546ef2(0xc9)](/_\d+/g,'')));for(var _0x541710=_0x2ea82b;_0x541710<=_0x2ea82b;_0x541710++){var _0x5988c2=au_surat+arr_files[_0x541710]+_0x546ef2(0x173);arr_surat[_0x541710]!='at_taubah'&&_0x541710!=0x0?bismi='<p\x20style=\x22background:\x20'+getColor()+_0x546ef2(0x101):bismi='',ol_surat='<header\x20class=\x22nama_surat\x22\x20id=surat_'+arr_surat[_0x541710]+'>'+_0x546ef2(0xb5)+_0x5988c2+_0x546ef2(0x186)+_0x546ef2(0x158)+Number(_0x541710+0x1)+'.\x20'+arr_surat[_0x541710]['replace'](/_/g,'\x20')+_0x546ef2(0x189)+window[arr_surat[_0x541710]][_0x546ef2(0x176)]+_0x546ef2(0x1ce)+turun(arr_surat[_0x541710])+_0x546ef2(0xce)+bismi+'<ol\x20id='+arr_surat[_0x541710]+_0x546ef2(0x171),generate_surat(arr_surat[_0x541710],window[arr_surat[_0x541710]]);}document[_0x546ef2(0x160)](_0x546ef2(0x1b8))[0x0][_0x546ef2(0xdb)]=ol_surat['replace'](/undefined/gm,'');}function generate_surat(_0x39e30e,_0x18daf9){var _0x3e875e=_0x28f1b0,_0x31df68=Object[_0x3e875e(0x120)](_0x18daf9),_0x43002d,_0x1ddf76='',_0x73c60,_0x51782f,_0x3b495f,_0x300343,_0x3c6df6,_0x1f4397,_0x2f7527,_0xbb82fe,_0x2eb291,_0x33fc4f,_0x334ed2,_0xc229ef;if(localStorage[_0x3e875e(0xf9)](_0x3e875e(0x1ba))=='1'){var _0x1d734e;userLang=='id-ID'?_0x1d734e='</span><b>\x20Mode\x20Hafiz:</b><br>&#x2714;\x20Hanya\x20menampilkan\x20kata\x20depan\x20saja,\x20untuk\x20melihat\x20selengkapnya\x20ketuk\x20pada\x20ayat\x20<br>&#x2714;\x20Ceklis\x20pada\x20tombol\x20&#9745;\x20Hafal\x20untuk\x20menandai\x20hafalan':_0x1d734e='</span><b>\x20Hafiz\x20Mode:\x20</b><br>&#x2714;\x20Only\x20display\x20the\x20preposition\x20only,\x20to\x20see\x20the\x20full\x20verse\x20tap\x20on\x20the\x20verse\x20<br>&#x2714;\x20Checkmark\x20&#9745;\x20Memorized\x20to\x20mark\x20memorization',mui_dialog(_0x3e875e(0x1c1)+el(_0x3e875e(0x149))[_0x3e875e(0xdb)]+_0x1d734e),el(_0x3e875e(0x149))[_0x3e875e(0x10a)](_0x3e875e(0x126),'1'),el('hafiz')['style'][_0x3e875e(0x19c)]=_0x3e875e(0x18d),_0xbb82fe=_0x3e875e(0x17f),_0x2f7527=_0x3e875e(0xee),localStorage['setItem'](_0x3e875e(0x199),'0'),localStorage[_0x3e875e(0xc1)](_0x3e875e(0xd7),'0');}else el(_0x3e875e(0x149))[_0x3e875e(0x10a)](_0x3e875e(0x126),'0'),el(_0x3e875e(0x149))[_0x3e875e(0x1d2)](_0x3e875e(0xa2)),_0xbb82fe=_0x3e875e(0xee),_0x2f7527=_0x3e875e(0x17f);localStorage[_0x3e875e(0xf9)](_0x3e875e(0x199))==_0x3e875e(0x1bd)?_0x73c60=_0x3e875e(0xee):_0x73c60='none';;localStorage[_0x3e875e(0xf9)](_0x3e875e(0xd7))==_0x3e875e(0x1bd)?_0x51782f='block':_0x51782f=_0x3e875e(0x17f);;localStorage['getItem'](_0x3e875e(0x132))==_0x3e875e(0x1bc)?_0x3b495f=_0x3e875e(0x1bc):_0x3b495f=_0x3e875e(0xc3);;var _0x250079=_0x3e875e(0x163),_0x2840fe=/(([ًٌٍ]+[ا|ى|ۙ]\s+|نْ|نْ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[ك|ق|ف|ظ|ط|ض|ص|ش|س|ز|ذ|د|ج|ث|ت])/g,_0x47a6fe=/((نْ|نْ\s+|نْۢ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[ب])/g,_0x967610=/(([ًٌٍ]+[ا|ى|ۙ]\s+|نْ|نْ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[و|م|ن|ي])/g,_0x1a510c=/(([ًٌٍ]+[ا|ى|ۙ]\s+|نْ|نْ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[ل|ر])/g,_0x441957=/((مْ|مْ\s+)[م])/g,_0x5b8dda=/((مْ|مْ\s+)[ب])/g,_0x26e2d1=/([ن|م]+ّ)/g,_0x73f4b7=/(([ق|ط|د|ج|ب][ْ|ّ])|([ق|ط|د|ج|ب][ٍٍ|ِ|ْ|ّ|ٌ|ُ|ً|َ][ۗ|ۘ|ۖ|ۛ|ۚ|ۙ]))/g,_0x149681='<u\x20class=\x22ikhfa\x22\x20onclick=\x27tajwid(this.className)\x27>$1</u>',_0x476f02=_0x3e875e(0xec),_0x483b4b=_0x3e875e(0xbe),_0x50e1ed=_0x3e875e(0x1a7),_0x2a6799=_0x3e875e(0xaf),_0x2d1abd=_0x3e875e(0xb0),_0x22d94a=_0x3e875e(0x128),_0x49f546=_0x3e875e(0x1d1);for(var _0x21633e=0x0;_0x21633e<_0x18daf9[_0x3e875e(0x176)];_0x21633e++){_0x2eb291=_0x18daf9[_0x21633e]['at'],_0x33fc4f=window[_0x3e875e(0x1a4)+pad(Number(arr_surat[_0x3e875e(0x135)](_0x39e30e)+0x1),0x3)][_0x21633e],_0x43002d=Number(arr_surat[_0x3e875e(0x135)](_0x39e30e)+0x1)+'.'+_0x18daf9[_0x21633e]['id'],file=pad(Number(arr_surat[_0x3e875e(0x135)](_0x39e30e)+0x1),0x3)+pad(_0x18daf9[_0x21633e]['id'],0x3)+'.mp3',_0x300343=_0x18daf9[_0x21633e]['ar'][_0x3e875e(0xc7)]()[_0x3e875e(0xc9)](/۞/g,'')[_0x3e875e(0xc7)](),_0x3c6df6=_0x300343[_0x3e875e(0x109)]('\x20')[_0x3e875e(0x18c)](_0x10356f=>_0x10356f[_0x3e875e(0xc7)]())[0x0]+'\x20.\x20.\x20.';localStorage[_0x3e875e(0xf9)](_0x3e875e(0x1b5)+_0x43002d)!=null&&localStorage[_0x3e875e(0xf9)]('hz_'+_0x43002d)=='1'?_0x1f4397='checked':_0x1f4397='';userLang==_0x3e875e(0x13b)?(_0x334ed2=_0x2eb291,_0xc229ef='Hafal'):(_0x334ed2=_0x33fc4f,_0xc229ef=_0x3e875e(0x1a0));_0x1ddf76+='<li\x20onclick=\x22klik_ayat(&apos;'+_0x39e30e+'_'+_0x18daf9[_0x21633e]['id']+_0x3e875e(0x9e)+file+'&apos;);\x22\x20id='+_0x39e30e+'_'+_0x18daf9[_0x21633e]['id']+_0x3e875e(0x115)+getColor()+_0x3e875e(0x105)+_0x3b495f+'\x22>'+'<sup\x20class=\x22no_ayat\x22>'+_0x43002d+'\x20'+no_juz(_0x43002d)+_0x3e875e(0x13e)+_0x3e875e(0x1c2)+_0x2f7527+_0x3e875e(0x190)+_0x43002d+_0x3e875e(0xa5)+_0x1f4397+'>'+_0xc229ef+'</label><span\x20class=\x22hafiz\x22\x20onclick=\x22show_ayat(this);\x22\x20style=\x22display:'+_0x2f7527+'\x22>'+_0x3c6df6+_0x3e875e(0x17d)+_0x3e875e(0x10e)+_0x39e30e+'\x20ayat\x20'+_0x18daf9[_0x21633e]['id']+_0x3e875e(0xab)+_0xbb82fe+'\x22>'+_0x18daf9[_0x21633e]['ar'][_0x3e875e(0xc9)](_0x2840fe,_0x149681)[_0x3e875e(0xc9)](_0x47a6fe,_0x476f02)['replace'](_0x967610,_0x483b4b)[_0x3e875e(0xc9)](_0x1a510c,_0x50e1ed)['replace'](_0x441957,_0x2a6799)[_0x3e875e(0xc9)](_0x5b8dda,_0x2d1abd)['replace'](_0x26e2d1,_0x22d94a)[_0x3e875e(0xc9)](_0x73f4b7,_0x49f546)+'</span>'+_0x3e875e(0x16b)+_0x73c60+'\x22>'+_0x18daf9[_0x21633e]['bc']+_0x3e875e(0xea)+_0x3e875e(0x10d)+_0x51782f+'\x22>'+_0x334ed2+'</span>'+_0x3e875e(0x11a);if(_0x18daf9[_0x3e875e(0x176)]-0x1===_0x21633e){}}setTimeout(function(){var _0x5901dd=_0x3e875e;document['getElementById'](_0x39e30e)[_0x5901dd(0xdb)]=_0x1ddf76;},0x3e8);}function generate_hafalan(){var _0x679f73=_0x28f1b0;userLang==_0x679f73(0x13b)?ket=[_0x679f73(0x1ae)]:ket=[_0x679f73(0x192)];var _0x3662f9='',_0x8dc37c='0',_0x111b8e='0',_0x3251ba,_0x195239,_0x5e98cf=Number('0');for(var _0x57b61d=0x0;_0x57b61d<arr_surat[_0x679f73(0x176)];_0x57b61d++){_0x3251ba=Number(_0x57b61d+0x1)+'.\x20'+capitalizeName(arr_surat[_0x57b61d][_0x679f73(0xc9)](/_/g,'\x20')),_0x195239=window[arr_surat[_0x57b61d]][_0x679f73(0x176)],_0x111b8e=filterkeyname('hz_'+Number(_0x57b61d+0x1)+'.')[_0x679f73(0x176)],_0x8dc37c=(Number(_0x111b8e/_0x195239)*Number(0x64))[_0x679f73(0xad)](0x1),_0x3662f9+=_0x679f73(0xcf)+_0x8dc37c+_0x679f73(0xe1)+_0x3251ba+_0x679f73(0x146)+_0x111b8e+'/'+_0x195239+'\x20('+_0x8dc37c+_0x679f73(0x1c6),_0x5e98cf+=Number(_0x195239);}pencapaian=filterkeyname(_0x679f73(0x1b5))[_0x679f73(0x176)],persentase=(Number(pencapaian/_0x5e98cf)*Number(0x64))[_0x679f73(0xad)](0x1),document[_0x679f73(0x11e)](_0x679f73(0x1b6))[_0x679f73(0xdb)]=_0x679f73(0x12f)+ket[0x0]+'\x20('+persentase+_0x679f73(0x117)+_0x3662f9[_0x679f73(0xc9)](/undefined/gm,'')+'</ul>';}generate_hafalan();function go_hash(_0x401d81){var _0x40c228=_0x28f1b0,_0x37ce6c=_0x401d81[_0x40c228(0xc9)](/surat_/,''),_0x338bb2=_0x37ce6c[_0x40c228(0x18a)](/\d+/g);window['location'][_0x40c228(0x10c)]='',_0x401d81!=_0x40c228(0x1b6)?(localStorage[_0x40c228(0xc1)](_0x40c228(0xbd),_0x37ce6c),muat(_0x37ce6c),_0x338bb2!=null?setTimeout(function(){var _0x40b3d9=_0x40c228;window[_0x40b3d9(0xf0)][_0x40b3d9(0xc9)](_0x40b3d9(0xc8)+_0x37ce6c[_0x40b3d9(0xc9)](/\d+/g,'')+Number(_0x338bb2-0x1));},0x3e8):setTimeout(function(){var _0x4409bb=_0x40c228;window[_0x4409bb(0xa4)](0x0,0x0);},0x3e8)):(document[_0x40c228(0x160)]('surat')[0x0]['innerHTML']='',window['location'][_0x40c228(0xc9)](_0x40c228(0xc8)+_0x37ce6c),autocomplete_result[_0x40c228(0xa2)][_0x40c228(0x1d0)]=_0x40c228(0x17f));}function getColor(){var _0x1c9028=_0x28f1b0;return _0x1c9028(0x1b2)+0x168*Math['random']()+','+(0x19+0x46*Math[_0x1c9028(0xda)]())+'%,'+(0x55+0xa*Math[_0x1c9028(0xda)]())+'%)';}function hapus_el(_0xd96db9){var _0x4b74a1=_0x28f1b0,_0x298cf4=document[_0x4b74a1(0x16f)](_0xd96db9);for(var _0x1f090e=0x0;_0x1f090e<_0x298cf4[_0x4b74a1(0x176)];_0x1f090e++){_0x298cf4[_0x1f090e]['remove']();}}function show_el(_0x5cbaf0){var _0x382ecc=_0x28f1b0,_0x103b2b=document[_0x382ecc(0x16f)](_0x5cbaf0);for(var _0x5ce9f5=0x0;_0x5ce9f5<_0x103b2b[_0x382ecc(0x176)];_0x5ce9f5++){_0x103b2b[_0x5ce9f5][_0x382ecc(0xa2)][_0x382ecc(0x1d0)]=_0x382ecc(0xee);}}function hide_el(_0x3fa0c0){var _0x454ed0=_0x28f1b0,_0x1c6ff6=document[_0x454ed0(0x16f)](_0x3fa0c0);for(var _0x535d1b=0x0;_0x535d1b<_0x1c6ff6[_0x454ed0(0x176)];_0x535d1b++){_0x1c6ff6[_0x535d1b]['style'][_0x454ed0(0x1d0)]=_0x454ed0(0x17f);}}function hapus_atr(_0x337034,_0x209eed){var _0x49b910=_0x28f1b0,_0x203064=document['querySelectorAll'](_0x337034);for(var _0x2ced88=0x0;_0x2ced88<_0x203064[_0x49b910(0x176)];_0x2ced88++){_0x203064[_0x2ced88][_0x49b910(0x1d2)](_0x209eed);}}function set_atr(_0x37e79c,_0x3cafca,_0x29d2de){var _0x2ac3d1=_0x28f1b0,_0x1d90ef=document[_0x2ac3d1(0x16f)](_0x37e79c);for(var _0x51f099=0x0;_0x51f099<_0x1d90ef[_0x2ac3d1(0x176)];_0x51f099++){_0x1d90ef[_0x51f099][_0x2ac3d1(0x10a)](_0x3cafca,_0x29d2de);}}function popupClearAndHide(){var _0x1125f8=_0x28f1b0;autocomplete_result[_0x1125f8(0xdb)]='',autocomplete_result[_0x1125f8(0xa2)][_0x1125f8(0x1d0)]=_0x1125f8(0x17f),document[_0x1125f8(0x11e)]('search')[_0x1125f8(0x127)]='';}RegExp[_0x28f1b0(0x130)]=function(_0x4118e4){var _0x126555=_0x28f1b0;return _0x4118e4[_0x126555(0xc9)](/[-\/\\^$*+?.()|[\]{}]/g,_0x126555(0x1b9));};function updPopup(){var _0x2bc830=_0x28f1b0,_0x2456f1,_0x201b1;userLang==_0x2bc830(0x13b)?_0x2456f1=[_0x2bc830(0xb9),_0x2bc830(0x16d)]:_0x2456f1=[_0x2bc830(0x1cc),_0x2bc830(0xa9)];if(!search[_0x2bc830(0x127)]){popupClearAndHide();return;}var _0x354f22=new RegExp(RegExp[_0x2bc830(0x130)](search['value'][_0x2bc830(0xc9)](/ /g,'_')),'i');for(var _0x35fc02=0x0,_0x1fc7a4=document[_0x2bc830(0x16e)](),_0x5bae75=![];_0x35fc02<arr_surat[_0x2bc830(0x176)];_0x35fc02++){userLang==_0x2bc830(0x13b)?_0x201b1=surah[_0x35fc02][0x3]:_0x201b1=surah[_0x35fc02][0x7];if(_0x354f22[_0x2bc830(0x134)](arr_surat[_0x35fc02])){_0x5bae75=!![];var _0x46c38c=document[_0x2bc830(0x9f)]('p'),_0x2fa6f7=arr_surat[_0x35fc02][_0x2bc830(0xc9)](/ /g,'_')['toLowerCase']();_0x46c38c[_0x2bc830(0xdb)]='<b>'+Number(_0x35fc02+0x1)+'.\x20'+arr_surat[_0x35fc02][_0x2bc830(0xc9)](/_/g,'\x20')+'</b>\x20'+surah[_0x35fc02][0x2]+'\x20('+_0x201b1+')\x20'+window[arr_surat[_0x35fc02]][_0x2bc830(0x176)]+'\x20'+_0x2456f1[0x1],_0x46c38c[_0x2bc830(0x10a)](_0x2bc830(0x172),_0x2bc830(0x129)+_0x2fa6f7+_0x2bc830(0xa8)),_0x1fc7a4[_0x2bc830(0x194)](_0x46c38c);}}if(_0x5bae75==!![]){var _0x359473=_0x2bc830(0x15c)+_0x2456f1[0x0]+_0x2bc830(0x1c0);autocomplete_result['innerHTML']='',autocomplete_result[_0x2bc830(0xa2)][_0x2bc830(0x1d0)]=_0x2bc830(0xee),autocomplete_result[_0x2bc830(0x194)](_0x1fc7a4);return;}popupClearAndHide();}function fokus(){var _0x538cd2=_0x28f1b0;document[_0x538cd2(0x11e)]('search')[_0x538cd2(0x157)]();}search[_0x28f1b0(0x14f)](_0x28f1b0(0x17a),updPopup),search[_0x28f1b0(0x14f)](_0x28f1b0(0x12d),updPopup),search[_0x28f1b0(0x14f)](_0x28f1b0(0x180),updPopup_show),document[_0x28f1b0(0x11e)](_0x28f1b0(0x175))['nextElementSibling'][_0x28f1b0(0x14f)](_0x28f1b0(0x157),popupClearAndHide);userLang==_0x28f1b0(0x13b)?document[_0x28f1b0(0x11e)](_0x28f1b0(0x19e))['setAttribute']('placeholder',_0x28f1b0(0x1ab)):document['getElementById'](_0x28f1b0(0x19e))['setAttribute']('placeholder','Type\x20surah\x20name\x20&\x20select\x20search\x20result.');function updPopup_show(){var _0xb824f8=_0x28f1b0,_0x27121f,_0x5b82ff;userLang==_0xb824f8(0x13b)?_0x27121f=[_0xb824f8(0xb9),_0xb824f8(0x16d)]:_0x27121f=[_0xb824f8(0x1cc),'verses'];var _0x134b07=new RegExp(RegExp[_0xb824f8(0x130)](search[_0xb824f8(0x127)][_0xb824f8(0xc9)](/ /g,'_')),'i');for(var _0x38905d=0x0,_0x2b368a=document[_0xb824f8(0x16e)](),_0x2be2c8=![];_0x38905d<arr_surat[_0xb824f8(0x176)];_0x38905d++){userLang=='id-ID'?_0x5b82ff=surah[_0x38905d][0x3]:_0x5b82ff=surah[_0x38905d][0x7];if(_0x134b07[_0xb824f8(0x134)](arr_surat[_0x38905d])){_0x2be2c8=!![];var _0x4e28f2=document[_0xb824f8(0x9f)]('p'),_0x5c1d8c=arr_surat[_0x38905d][_0xb824f8(0xc9)](/ /g,'_')[_0xb824f8(0x100)]();_0x4e28f2['innerHTML']=_0xb824f8(0x12f)+Number(_0x38905d+0x1)+'.\x20'+arr_surat[_0x38905d]['replace'](/_/g,'\x20')+_0xb824f8(0x170)+surah[_0x38905d][0x2]+'\x20('+_0x5b82ff+')\x20'+window[arr_surat[_0x38905d]]['length']+'\x20'+_0x27121f[0x1],_0x4e28f2[_0xb824f8(0x10a)](_0xb824f8(0x172),_0xb824f8(0x129)+_0x5c1d8c+_0xb824f8(0xa8)),_0x2b368a[_0xb824f8(0x194)](_0x4e28f2);}}var _0x579443=_0xb824f8(0x15c)+_0x27121f[0x0]+_0xb824f8(0x1c0);autocomplete_result[_0xb824f8(0xdb)]='',autocomplete_result['style'][_0xb824f8(0x1d0)]=_0xb824f8(0xee),autocomplete_result['appendChild'](_0x2b368a),autocomplete_result[_0xb824f8(0xdb)]=_0x579443+autocomplete_result[_0xb824f8(0xdb)];return;}function toggle_set_latar(_0x559936){var _0x5c0808=_0x28f1b0;let _0x4dd0d8=document[_0x5c0808(0x11e)](_0x559936);_0x4dd0d8[_0x5c0808(0x1bd)]?(_0x4dd0d8[_0x5c0808(0x1bd)]=!![],localStorage[_0x5c0808(0xc1)](_0x559936,_0x5c0808(0xc3)),document[_0x5c0808(0x16f)](_0x5c0808(0xb1))[_0x5c0808(0x136)](_0x45ac7f=>{var _0x4440ec=_0x5c0808;_0x45ac7f[_0x4440ec(0x195)]='no_bg';})):(_0x4dd0d8[_0x5c0808(0x1bd)]=![],localStorage['setItem'](_0x559936,_0x5c0808(0x1bc)),document[_0x5c0808(0x16f)](_0x5c0808(0xb1))['forEach'](_0x30da7d=>{var _0x32299f=_0x5c0808;_0x30da7d[_0x32299f(0x195)]=_0x32299f(0x1bc);}));}function toggle_set_color(_0x16c018){var _0x504f6b=_0x28f1b0;let _0x1dc472=document[_0x504f6b(0x11e)](_0x16c018);_0x1dc472[_0x504f6b(0x1bd)]?(_0x1dc472['checked']=!![],localStorage[_0x504f6b(0xc1)](_0x16c018,'0'),document['querySelectorAll'](_0x504f6b(0x118))[_0x504f6b(0x136)](_0x551d40=>{var _0x1a4211=_0x504f6b;_0x551d40[_0x1a4211(0x1d2)]('style');})):(_0x1dc472[_0x504f6b(0x1bd)]=![],localStorage[_0x504f6b(0xc1)](_0x16c018,_0x504f6b(0x113)),document[_0x504f6b(0x16f)](_0x504f6b(0x118))['forEach'](_0x2c3ef0=>{var _0xf45b95=_0x504f6b;_0x2c3ef0[_0xf45b95(0x10a)]('style','color:black\x20!important;');}));}function toggle(_0x41a374,_0x4c8b3c,_0x4da7d8){var _0x21abff=_0x28f1b0;let _0x596b2f=document['getElementById'](_0x41a374);var _0x2bd2d5,_0x5dca39;_0x4c8b3c=_0x4c8b3c[_0x21abff(0x176)]?_0x4c8b3c:[_0x4c8b3c];for(_0x5dca39=0x0;_0x5dca39<_0x4c8b3c[_0x21abff(0x176)];_0x5dca39++){_0x2bd2d5=_0x4c8b3c[_0x5dca39],_0x5c3d1a(_0x2bd2d5)?(_0x596b2f[_0x21abff(0x1bd)]=!![],localStorage[_0x21abff(0xc1)](_0x41a374,_0x21abff(0x1bd)),_0x2bd2d5[_0x21abff(0xa2)]['display']='',_0x5c3d1a(_0x2bd2d5)&&(_0x2bd2d5[_0x21abff(0xa2)]['display']=_0x4da7d8||_0x21abff(0xee))):(_0x596b2f[_0x21abff(0x1bd)]=![],localStorage[_0x21abff(0xc1)](_0x41a374,'0'),_0x2bd2d5[_0x21abff(0xa2)][_0x21abff(0x1d0)]=_0x21abff(0x17f));}function _0x5c3d1a(_0x4946ca){var _0x41d2f8=_0x21abff;return window[_0x41d2f8(0xd0)](_0x4946ca,null)[_0x41d2f8(0x10b)]('display')==='none';}}function notif_ayat(_0x10c6ff){var _0x512bde=_0x28f1b0,_0x374952;userLang==_0x512bde(0x13b)?_0x374952='Cari\x20di\x20surat\x20'+capitalizeName(localStorage[_0x512bde(0xf9)](_0x512bde(0xbd))[_0x512bde(0xc9)](/_/g,'\x20'))+'..!':_0x374952=_0x512bde(0x167)+capitalizeName(localStorage[_0x512bde(0xf9)](_0x512bde(0xbd))[_0x512bde(0xc9)](/_/g,'\x20'))+'..!',_0x10c6ff['textContent']!='X'&&(localStorage[_0x512bde(0xf9)](_0x512bde(0x1ba))=='1'?(localStorage[_0x512bde(0xc1)](_0x512bde(0x1ba),'0'),localStorage[_0x512bde(0xc1)](_0x512bde(0xd7),'checked'),alert(_0x374952),muat(localStorage[_0x512bde(0xf9)](_0x512bde(0xbd)))):(localStorage[_0x512bde(0xc1)]('set_arti',_0x512bde(0x1bd)),show_el(_0x512bde(0x1a5)),alert(_0x374952)));}var shouldScroll=![];function scroll(){if(!shouldScroll)return;window['scrollBy'](0x0,0x1),setTimeout(scroll,0x78);}document[_0x28f1b0(0x11e)](_0x28f1b0(0x165))[_0x28f1b0(0x14f)](_0x28f1b0(0x157),function(){var _0x289330=_0x28f1b0;this['innerHTML']=(this['dataset'][_0x289330(0x10f)]^=0x1)?_0x289330(0x1cf):_0x289330(0x124),shouldScroll=!shouldScroll,scroll();});var hafiz;localStorage[_0x28f1b0(0xf9)](_0x28f1b0(0x1ba))=='1'?hafiz=!![]:hafiz=![];function hafizin(){var _0x5965e6=_0x28f1b0;userLang==_0x5965e6(0x13b)?ket=[_0x5965e6(0x121),'Mode\x20hafiz\x20diaktifkan']:ket=['Normal\x20mode\x20enabled',_0x5965e6(0xd3)];if(!hafiz){alert(ket[0x0]),localStorage['setItem'](_0x5965e6(0x1ba),'0'),muat(localStorage[_0x5965e6(0xf9)](_0x5965e6(0xbd)));return;}hafizin,alert(ket[0x1]),localStorage['setItem'](_0x5965e6(0x199),'0'),localStorage[_0x5965e6(0xc1)](_0x5965e6(0xd7),'0'),localStorage[_0x5965e6(0xc1)](_0x5965e6(0x1ba),'1'),muat(localStorage[_0x5965e6(0xf9)]('buka'));}document[_0x28f1b0(0x11e)](_0x28f1b0(0x149))[_0x28f1b0(0x14f)](_0x28f1b0(0x157),function(){var _0x470029=_0x28f1b0;this[_0x470029(0xa2)][_0x470029(0x19c)]=(this[_0x470029(0x188)][_0x470029(0x10f)]^=0x1)?_0x470029(0x18d):'none',hafiz=!hafiz,hafizin();});function hafal(_0x18a4ba){var _0x4dcb1d=_0x28f1b0;elm=document['getElementById'](_0x18a4ba),elm['checked']?localStorage['setItem']('hz_'+_0x18a4ba,'1'):localStorage[_0x4dcb1d(0x147)](_0x4dcb1d(0x1b5)+_0x18a4ba),generate_hafalan();}var cs_bacaan=document[_0x28f1b0(0x160)](_0x28f1b0(0x11d))[0x0],cs_arti=document[_0x28f1b0(0x160)](_0x28f1b0(0xe5))[0x0];document[_0x28f1b0(0x11e)](_0x28f1b0(0x1bb))[_0x28f1b0(0x14f)](_0x28f1b0(0x157),function(){pengaturan();});function onLongPress(_0x353d7c,_0x602e0f){var _0x47c0f5=_0x28f1b0;let _0xcefb6b;_0x353d7c[_0x47c0f5(0x14f)](_0x47c0f5(0xe2),()=>{_0xcefb6b=setTimeout(()=>{_0xcefb6b=null,_0x602e0f();},0x1f4);});function _0x482ff3(){clearTimeout(_0xcefb6b);}_0x353d7c[_0x47c0f5(0x14f)](_0x47c0f5(0x12b),_0x482ff3),_0x353d7c[_0x47c0f5(0x14f)](_0x47c0f5(0x14e),_0x482ff3);}setTimeout(function(){var _0x2c77ff=_0x28f1b0;document[_0x2c77ff(0x16f)]('.arti')[_0x2c77ff(0x136)](_0x32f4aa=>{_0x32f4aa['addEventListener']('click',_0x179ad3=>{});}),document[_0x2c77ff(0x16f)](_0x2c77ff(0xb1))[_0x2c77ff(0x136)](_0x5a27a3=>{onLongPress(_0x5a27a3,()=>{var _0x3b4251=_0x58fe;alert('Ayat\x20ini\x20ditandai\x20sebagai\x20Terakhir\x20Baca'),localStorage['setItem'](_0x3b4251(0x166),_0x5a27a3['id']);});});},0x2328);function tandai(_0x5cc107){var _0x1c428e=_0x28f1b0,_0x34f8ca;userLang==_0x1c428e(0x13b)?_0x34f8ca=['Ayat\x20ini\x20ditandai\x20sebagai\x20Terakhir\x20Baca']:_0x34f8ca=[_0x1c428e(0x1b7)],alert(_0x34f8ca[0x0]),localStorage[_0x1c428e(0xc1)](_0x1c428e(0x166),_0x5cc107);}function terakhir_baca(){var _0x3dd25b=_0x28f1b0,_0xd341a6;userLang==_0x3dd25b(0x13b)?_0xd341a6=[_0x3dd25b(0xeb),_0x3dd25b(0xff)]:_0xd341a6=[_0x3dd25b(0x1cc),_0x3dd25b(0x181)];var _0x3d4b3d=localStorage[_0x3dd25b(0xf9)](_0x3dd25b(0x166));_0x3d4b3d!=null?(alert(_0xd341a6[0x0]+'\x20'+capitalizeName(_0x3d4b3d[_0x3dd25b(0xc9)](/_/g,'\x20'))),go_hash(_0x3d4b3d)):alert(_0xd341a6[0x1]),autocomplete_result[_0x3dd25b(0xdb)]='',autocomplete_result[_0x3dd25b(0xa2)][_0x3dd25b(0x1d0)]=_0x3dd25b(0x17f);}document['getElementById'](_0x28f1b0(0xa0))['addEventListener']('click',function(){terakhir_baca();}),document[_0x28f1b0(0x11e)](_0x28f1b0(0xde))['addEventListener'](_0x28f1b0(0x157),function(){var _0x49fc2e=_0x28f1b0;go_hash(_0x49fc2e(0x1b6));});function capitalizeName(_0x4e25a1){var _0x5f00ee=_0x28f1b0;return _0x4e25a1[_0x5f00ee(0xc9)](/\b(\w)/g,_0x1a3ea2=>_0x1a3ea2[_0x5f00ee(0x139)]());}updPopup_show();function clearID(){var _0x7d9725=_0x28f1b0;if(arguments[_0x7d9725(0x176)]>0x0)for(var _0x444902=0x0;_0x444902<arguments['length'];_0x444902++){document[_0x7d9725(0x11e)](arguments[_0x444902])[_0x7d9725(0x127)]='';}}function hapus_atr(_0x4c733f,_0x3563f5){var _0x59d9a3=_0x28f1b0,_0x1469ad=document[_0x59d9a3(0x16f)](_0x4c733f);for(var _0x2641a2=0x0;_0x2641a2<_0x1469ad[_0x59d9a3(0x176)];_0x2641a2++){_0x1469ad[_0x2641a2]['removeAttribute'](_0x3563f5);}}function el(_0x4a0a2d){return document['getElementById'](_0x4a0a2d);}function els(_0x382a4d,_0x4412a8){var _0x4b3912=_0x28f1b0;return document[_0x4b3912(0x160)](_0x382a4d)[_0x4412a8];}function close_mui_dialog(){var _0x349dd4=_0x28f1b0;el=document[_0x349dd4(0x11e)](_0x349dd4(0xf2)),el!=null&&el[_0x349dd4(0xf6)](),document[_0x349dd4(0xf4)][_0x349dd4(0x1d2)](_0x349dd4(0xe0));}function mui_dialog(_0x4e52fa,_0x3526a1,_0xf15191=''){var _0x404ee1=_0x28f1b0,_0x42b70c=_0x404ee1(0xb2),_0x4417ea=';admob.interstitial.prepare();admob.interstitial.show();',_0x5041b8=document[_0x404ee1(0x9f)](_0x404ee1(0x187));_0x5041b8[_0x404ee1(0xa2)][_0x404ee1(0x151)]=_0x404ee1(0x15a),_0x5041b8[_0x404ee1(0xa2)]['minHeight']=_0x404ee1(0xdf),_0x5041b8[_0x404ee1(0xa2)][_0x404ee1(0x15f)]=_0x404ee1(0x174),_0x5041b8[_0x404ee1(0xa2)][_0x404ee1(0x119)]=_0x404ee1(0x17c),_0x5041b8['style']['position']=_0x404ee1(0x150),_0x5041b8[_0x404ee1(0xa2)]['top']=_0x404ee1(0x1af),_0x5041b8[_0x404ee1(0xa2)][_0x404ee1(0x12c)]=_0x404ee1(0x1af),_0x5041b8[_0x404ee1(0xa2)][_0x404ee1(0xa7)]=_0x404ee1(0xd6),_0x5041b8[_0x404ee1(0xa2)][_0x404ee1(0x19c)]=_0x404ee1(0x13d),_0x5041b8[_0x404ee1(0xdb)]+=_0x404ee1(0x143)+_0xf15191+'</div><br><div\x20class=\x22mui--text-body2\x22>'+_0x4e52fa+_0x404ee1(0x193),_0x3526a1!=null&&_0x3526a1!==0x0&&(_0x5041b8[_0x404ee1(0xdb)]+=_0x404ee1(0x137)+_0x42b70c+_0x4417ea+_0x404ee1(0x19b)),mui[_0x404ee1(0x12a)]('on',_0x5041b8);}var txt_selected;function getSelectionText(){var _0x4ac770=_0x28f1b0,_0x33222b='',_0x118304=document[_0x4ac770(0x102)],_0x545273=_0x118304?_0x118304['tagName'][_0x4ac770(0x100)]():null;if(_0x545273==_0x4ac770(0xc2)||_0x545273==_0x4ac770(0x11b)&&/^(?:text|search|password|tel|url)$/i[_0x4ac770(0x134)](_0x118304[_0x4ac770(0x196)])&&typeof _0x118304['selectionStart']==_0x4ac770(0xbc))_0x33222b=_0x118304[_0x4ac770(0x127)]['slice'](_0x118304[_0x4ac770(0x111)],_0x118304['selectionEnd']);else window['getSelection']&&(_0x33222b=window[_0x4ac770(0x1cd)]()[_0x4ac770(0x116)]());return _0x33222b;}document[_0x28f1b0(0x1a6)]=document['onkeyup']=document[_0x28f1b0(0xba)]=function(){txt_selected=getSelectionText();};function show_ayat(_0x2c02ec){var _0x560dfe=_0x28f1b0,_0x11f55f=_0x2c02ec[_0x560dfe(0x183)]['parentNode']['getElementsByClassName'](_0x560dfe(0x16d))[0x0];_0x11f55f[_0x560dfe(0xa2)][_0x560dfe(0x1d0)]=(_0x11f55f[_0x560dfe(0x188)]['toggled']^=0x1)?'block':'none',_0x2c02ec[_0x560dfe(0xa2)]['color']=(_0x2c02ec[_0x560dfe(0x188)][_0x560dfe(0x10f)]^=0x1)?_0x560dfe(0x18d):_0x560dfe(0xfd);}function klik_ayat(_0x4fd9e4,_0x4407e4){var _0x4ba2ab=_0x28f1b0,_0x3d6e14;userLang=='id-ID'?_0x3d6e14=[_0x4ba2ab(0xd5),_0x4ba2ab(0xf5),_0x4ba2ab(0x159),'Salin\x20Ayat',_0x4ba2ab(0x123)]:_0x3d6e14=[_0x4ba2ab(0x15e),_0x4ba2ab(0x140),_0x4ba2ab(0x197),'Copy\x20verse',_0x4ba2ab(0x182)];if(localStorage['getItem']('set_hafiz')=='1'){}else{var _0x508a4b=capitalizeName(_0x4fd9e4[_0x4ba2ab(0xc9)](/_/g,'\x20')),_0x940dc5=au_ayat+_0x4407e4,_0xd11586=Number(arr_surat[_0x4ba2ab(0x135)](_0x4fd9e4[_0x4ba2ab(0xc9)](/_\d+/g,''))),_0x4c5401=au_surat+arr_files[_0xd11586]+_0x4ba2ab(0x173),_0xfe07=_0x4ba2ab(0x1a1)+_0x940dc5+_0x4ba2ab(0x184)+_0x3d6e14[0x0]+_0x4ba2ab(0xea),_0x36c566=_0x4ba2ab(0x178)+_0x4c5401+_0x4ba2ab(0x15b)+_0x3d6e14[0x1]+_0x4ba2ab(0xea);mui_dialog(_0x4ba2ab(0x12f)+_0x508a4b+'</b><br><br>'+_0xfe07+_0x4ba2ab(0xdd)+_0x36c566+_0x4ba2ab(0xe8)+_0x4fd9e4+_0x4ba2ab(0x1d3)+_0x3d6e14[0x2]+'</a><br><br>'+'<a\x20onclick=salin(\x27'+_0x4fd9e4+_0x4ba2ab(0x122)+_0x3d6e14[0x3]+_0x4ba2ab(0x14a)+_0x4ba2ab(0x1b1)+_0x4fd9e4+_0x4ba2ab(0x9d)+_0x3d6e14[0x4]+_0x4ba2ab(0xa6)+_0x4ba2ab(0x1ac));}}function salin(_0x1e9ece){var _0x4bc0ee=_0x28f1b0,_0x957c7d;txt_selected==''?(_0x957c7d=_0x4bc0ee(0xed)+Array[_0x4bc0ee(0x112)](document['getElementById'](_0x1e9ece)[_0x4bc0ee(0x1bf)],({textContent:_0x31822b})=>_0x31822b[_0x4bc0ee(0xc7)]())['filter'](Boolean)[_0x4bc0ee(0x1b0)]('\x0d\x0a'),arr_isi=_0x957c7d['split']('\x0d\x0a'),saring=arr_isi[_0x4bc0ee(0x106)]((_0x38e0b3,_0x4daff3)=>_0x4daff3!==0x1),_0x957c7d=saring[_0x4bc0ee(0x1b0)]('\x0d\x0a')):_0x957c7d=txt_selected,/Mobi|Android/i[_0x4bc0ee(0x134)](navigator[_0x4bc0ee(0xaa)])?(cordova[_0x4bc0ee(0xdc)][_0x4bc0ee(0x1c4)][_0x4bc0ee(0x138)](_0x957c7d),alert(_0x4bc0ee(0x18e))):alert(_0x957c7d);}function bagikan(_0xaad597){var _0x15864e=_0x28f1b0,_0x15dfb0;txt_selected==''?(_0x15dfb0=_0x15864e(0xed)+Array['from'](document[_0x15864e(0x11e)](_0xaad597)[_0x15864e(0x1bf)],({textContent:_0x36ca74})=>_0x36ca74['trim']())[_0x15864e(0x106)](Boolean)[_0x15864e(0x1b0)]('\x0d\x0a'),arr_isi=_0x15dfb0[_0x15864e(0x109)]('\x0d\x0a'),saring=arr_isi[_0x15864e(0x106)]((_0x3d3d4d,_0x273ca5)=>_0x273ca5!==0x1),_0x15dfb0=saring['join']('\x0d\x0a')):_0x15dfb0=txt_selected,/Mobi|Android/i[_0x15864e(0x134)](navigator[_0x15864e(0xaa)])?window['plugins'][_0x15864e(0xcc)]['share'](_0x15dfb0):alert(_0x15dfb0);}const toggleCSSclasses=(_0x202a63,..._0x8d9fcd)=>_0x8d9fcd[_0x28f1b0(0x18c)](_0x16121f=>_0x202a63[_0x28f1b0(0xc6)]['toggle'](_0x16121f)),toggleClass=(_0x3a780c,_0x1ed3b5)=>_0x3a780c['classList'][_0x28f1b0(0x107)](_0x1ed3b5);function ganti_bg(_0x494bc4){var _0x505f75=_0x28f1b0;toggleClass(document[_0x505f75(0x1ca)]('ol\x20>\x20li\x20>\x20span\x20>\x20u'),_0x505f75(0xb3));}function pengaturan(){var _0x590eb5=_0x28f1b0,_0x2f13c1;userLang==_0x590eb5(0x13b)?_0x2f13c1=[_0x590eb5(0x125),_0x590eb5(0x152),'Tampilkan\x20Terjemahan','Warna\x20Latar\x20Acak','Tajwid']:_0x2f13c1=[_0x590eb5(0xf1),_0x590eb5(0x13a),_0x590eb5(0x169),_0x590eb5(0xcb),'Tajweed'];var _0x8ccdf,_0x4b783c,_0xef53ca=_0x590eb5(0x12e);localStorage['getItem']('set_latar')==_0x590eb5(0xc3)?_0x8ccdf='checked':_0x8ccdf='0';localStorage['getItem'](_0x590eb5(0xa3))=='c_black'?_0x4b783c='0':_0x4b783c=_0x590eb5(0x1bd);var _0x136288=_0x590eb5(0x1a9)+localStorage[_0x590eb5(0xf9)](_0x590eb5(0x199))+'>'+_0x2f13c1[0x1]+_0x590eb5(0x155),_0x226f55='<div\x20class=\x22mui-checkbox\x22><label><input\x20id=\x22set_arti\x22\x20onclick=\x22toggle(this.id,document.querySelectorAll(&apos;.arti&apos;))\x22\x20\x20type=\x22checkbox\x22\x20'+localStorage[_0x590eb5(0xf9)](_0x590eb5(0xd7))+'>'+_0x2f13c1[0x2]+_0x590eb5(0x155),_0x412a3e='<div\x20class=\x22mui-checkbox\x22><label><input\x20id=\x22set_latar\x22\x20onclick=\x22toggle_set_latar(this.id)\x22\x20\x20type=\x22checkbox\x22\x20'+_0x8ccdf+'>'+_0x2f13c1[0x3]+'</label>\x20</div>',_0x35901d='<div\x20class=\x22mui-checkbox\x22><label><input\x20id=\x22set_tajwid\x22\x20onclick=\x22toggle_set_color(this.id)\x22\x20\x20type=\x22checkbox\x22\x20'+_0x4b783c+'>'+_0x2f13c1[0x4]+_0x590eb5(0x155);mui_dialog(_0x590eb5(0x12f)+_0x2f13c1[0x0]+_0x590eb5(0xe3)+_0x136288+_0x226f55+_0x412a3e+_0x35901d+_0xef53ca+_0x590eb5(0xcd));}function filterkeyname(_0x48ee12){var _0x22a5c1=_0x28f1b0,_0x1db207=[];for(var _0x41c293=0x0;_0x41c293<localStorage[_0x22a5c1(0x176)];_0x41c293++){var _0x3efdf7=localStorage['key'](_0x41c293),_0x1a86e6=localStorage[_0x22a5c1(0xf9)](_0x3efdf7);_0x3efdf7['indexOf'](_0x48ee12)>-0x1&&_0x1db207['push'](_0x3efdf7);;}return _0x1db207;}function PlayPause(_0x5b51a2,_0xf9e1a2){var _0x13a3d8=_0x28f1b0,_0x2dbbd0;userLang==_0x13a3d8(0x13b)?_0x2dbbd0=_0x13a3d8(0xfa):_0x2dbbd0=_0x13a3d8(0x1d6);var _0x5d40a9=_0xf9e1a2[_0x13a3d8(0x109)]('/')[_0x13a3d8(0x14d)](),_0xc6c2c2=document['getElementById'](_0x5b51a2);_0xc6c2c2[_0x13a3d8(0x11f)]=_0xf9e1a2,_0xc6c2c2[_0x13a3d8(0x161)]=0x1,_0xc6c2c2[_0x13a3d8(0x16a)]=!![],_0xc6c2c2[_0x13a3d8(0xb4)]=function(){var _0x34c817=_0x13a3d8;alert(_0x5d40a9+_0x34c817(0x1a3));};var _0x4a9f81=_0xc6c2c2['paused']?_0xc6c2c2[_0x13a3d8(0x1c7)]():_0xc6c2c2[_0x13a3d8(0xfc)]();_0x4a9f81!==undefined&&_0x4a9f81['then'](_0x3b0304=>{})[_0x13a3d8(0xc4)](_0x1cbbb1=>{});}function pad(_0x2c8088,_0x4bce62){var _0x27b07c=_0x28f1b0;_0x2c8088=_0x2c8088[_0x27b07c(0x116)]();while(_0x2c8088[_0x27b07c(0x176)]<_0x4bce62)_0x2c8088='0'+_0x2c8088;return _0x2c8088;}function tajwid_ket(_0x51e959){var _0x4e7769=_0x28f1b0;if(localStorage[_0x4e7769(0xf9)](_0x4e7769(0x1ba))=='1')return mui_dialog(_0x51e959);else{var _0x13ba9e=/(<([^>]+)>)/ig;return result=_0x51e959[_0x4e7769(0xc9)](_0x13ba9e,''),alert(result);}}function tajwid(_0x5b1d75){var _0x4eae51=_0x28f1b0,_0x3def2e;localStorage[_0x4eae51(0xf9)]('set_hafiz')=='1'?_0x3def2e=_0x4eae51(0x1b4):_0x3def2e='\x0a\x0d';if(userLang==_0x4eae51(0x13b)){if(_0x5b1d75==_0x4eae51(0x103))tajwid_ket(_0x4eae51(0x1b3)+_0x3def2e+_0x4eae51(0x14b)+_0x3def2e+_0x4eae51(0x162)+_0x3def2e+_0x4eae51(0x168));else{if(_0x5b1d75==_0x4eae51(0x1c3))tajwid_ket(_0x4eae51(0x1ad)+_0x3def2e+_0x4eae51(0x185)+_0x3def2e+'Iqlab\x20adalah\x20apabila\x20huruf\x20<i>nun\x20mati\x20atau\x20tanwin</i>\x20bertemu\x20dengan\x20huruf\x20Ba’,\x20maka\x20dibacanya\x20balem.');else{if(_0x5b1d75==_0x4eae51(0x148))tajwid_ket('<b\x20style=\x22color:purple;\x22>Idgham\x20Bigunnah</b>\x20artinya\x20dengan\x20dengung\x20(menahan\x20huruf\x20yang\x20masuk\x20sebanyak\x202\x20harkat)'+_0x3def2e+'Hurufnya\x20ada\x204,\x20yaitu\x20:(يمنو)\x20\x20\x20\x20ي\x20م\x20ن\x20و'+_0x3def2e+'Idgham\x20bigunnah\x20adalah\x20apabila\x20ada\x20huruf\x20<i>nun\x20mati\x20atau\x20tanwin</i>\x20bertemu\x20dengan\x20salah\x20satu\x20hurufnya,\x20maka\x20dibacanya\x20harus\x20berdengung.');else{if(_0x5b1d75=='bilagunah')tajwid_ket('<b\x20style=\x22color:gray;\x22>Idgham\x20Bilagunnah</b>\x20Artinya\x20:\x20tidak\x20dengan\x20dengung.'+_0x3def2e+_0x4eae51(0x14c)+_0x3def2e+'Idgham\x20bilagunnah\x20adalah\x20apabila\x20ada\x20<i>nun\x20mati\x20atau\x20tanwin</i>\x20bertemu\x20dengan\x20salah\x20satu\x20hurufnya,\x20maka\x20dibacanya\x20tidak\x20berdengung.');else{if(_0x5b1d75==_0x4eae51(0x110))tajwid_ket(_0x4eae51(0x1cb)+_0x3def2e+_0x4eae51(0x13f)+_0x3def2e+_0x4eae51(0x18f));else{if(_0x5b1d75==_0x4eae51(0xe9))tajwid_ket(_0x4eae51(0x145)+_0x3def2e+'Ikhfa\x20Safawi\x20adalah\x20apabila\x20ada\x20<i>mim\x20mati</i>\x20bertemu\x20dengan\x20huruf\x20<i>ba’\x20hidup</i>,\x20maka\x20dibacanya\x20harus\x20berdengung.');else{if(_0x5b1d75==_0x4eae51(0x17b))tajwid_ket(_0x4eae51(0x154)+_0x3def2e+_0x4eae51(0x1be)+_0x3def2e+_0x4eae51(0x141));else _0x5b1d75=='qalqalah'&&tajwid_ket('<b\x20style=\x22color:green;\x22>Qalqalah</b>\x20artinya\x20kerongkongan\x20(huruf\x20hijaiyyah\x20yang\x20mati,\x20diceklokkan).'+_0x3def2e+_0x4eae51(0xe7)+_0x3def2e+_0x4eae51(0x11c)+_0x3def2e+_0x4eae51(0x131)+_0x3def2e+'Sughra\x20artinya\x20:\x20ringan\x20(kecil).'+_0x3def2e+_0x4eae51(0x144)+_0x3def2e+_0x4eae51(0x177)+_0x3def2e+_0x4eae51(0x133)+_0x3def2e+_0x4eae51(0xf8)+_0x3def2e+_0x4eae51(0xb7)+_0x3def2e+_0x4eae51(0xf3));}}}}}}}else{if(_0x5b1d75==_0x4eae51(0x103))tajwid_ket('<b\x20style\x20=\x20\x22color:\x20red;\x22>\x20Ikhfa\x20</b>\x20means\x20vague.\x20(like\x20the\x20sound\x20<i>\x20ang\x20</i>\x20in\x20English).'+_0x3def2e+_0x4eae51(0xac)+_0x3def2e+_0x4eae51(0x162)+_0x3def2e+_0x4eae51(0x156));else{if(_0x5b1d75==_0x4eae51(0x1c3))tajwid_ket(_0x4eae51(0x19f)+_0x3def2e+_0x4eae51(0x1c8)+_0x3def2e+_0x4eae51(0xc5));else{if(_0x5b1d75==_0x4eae51(0x148))tajwid_ket('<b\x20style\x20=\x20\x22color:\x20purple;\x22>\x20Idgham\x20Bigunnah\x20</b>\x20means\x20by\x20buzzing\x20(holding\x202\x20digits\x20of\x20incoming\x20letters)'+_0x3def2e+_0x4eae51(0x191)+_0x3def2e+'Idgham\x20bigunnah\x20is\x20if\x20a\x20letter\x20<i>\x20nun\x20mati\x20or\x20tanwin\x20</i>\x20meets\x20one\x20of\x20the\x20letters,\x20then\x20it\x20must\x20be\x20read\x20buzzing.');else{if(_0x5b1d75==_0x4eae51(0x179))tajwid_ket(_0x4eae51(0x16c)+_0x3def2e+_0x4eae51(0xef)+_0x3def2e+_0x4eae51(0xd9));else{if(_0x5b1d75==_0x4eae51(0x110))tajwid_ket(_0x4eae51(0x153)+_0x3def2e+_0x4eae51(0x1c5)+_0x3def2e+_0x4eae51(0xc0));else{if(_0x5b1d75==_0x4eae51(0xe9))tajwid_ket(_0x4eae51(0x104)+_0x3def2e+_0x4eae51(0xd1));else{if(_0x5b1d75=='gunah')tajwid_ket(_0x4eae51(0x17e)+_0x3def2e+_0x4eae51(0x164)+_0x3def2e+_0x4eae51(0x114));else _0x5b1d75==_0x4eae51(0x1d5)&&tajwid_ket('<b\x20style\x20=\x20\x22color:\x20green;\x22>\x20Qalqalah\x20</b>\x20means\x20the\x20throat\x20(hijaiyyah\x20letters\x20that\x20are\x20dead,\x20choked).'+_0x3def2e+'There\x20are\x205\x20letters,\x20namely:\x20ق\x20ط\x20د\x20ج\x20ب'+_0x3def2e+'Qolqolah\x20is\x20divided\x20into\x202,\x20namely:'+_0x3def2e+_0x4eae51(0x1a2)+_0x3def2e+_0x4eae51(0x1aa)+_0x3def2e+_0x4eae51(0x18b)+_0x3def2e+_0x4eae51(0xbb)+_0x3def2e+_0x4eae51(0x1a8)+_0x3def2e+'2.\x20Qolqolah\x20Kubra\x20(قبرﻯ)\x20'+_0x3def2e+_0x4eae51(0xa1)+_0x3def2e+_0x4eae51(0xe4));}}}}}}}}
+var userLang = navigator.language || navigator.userLanguage;
+
+var surat = 'al_fatihah,al_baqarah,ali_imran,an_nisa,al_maidah,al_anam,al_araf,al_anfal,at_taubah,yunus,hud,yusuf,ar_rad,ibrahim,al_hijr,an_nahl,al_isra,al_kahfi,maryam,taha,al_anbiya,al_hajj,al_muminun,an_nur,al_furqan,asy_syuara,an_naml,al_qasas,al_ankabut,ar_rum,luqman,as_sajdah,al_ahzab,saba,fatir,yasin,as_saffat,sad,az_zumar,gafir,fussilat,asy_syura,az_zukhruf,ad_dukhan,al_jasiyah,al_ahqaf,muhammad,al_fath,al_hujurat,qaf,az_zariyat,at_tur,an_najm,al_qamar,ar_rahman,al_waqiah,al_hadid,al_mujadilah,al_hasyr,al_mumtahanah,as_saff,al_jumuah,al_munafiqun,at_tagabun,at_talaq,at_tahrim,al_mulk,al_qalam,al_haqqah,al_maarij,nuh,al_jinn,al_muzzammil,al_muddassir,al_qiyamah,al_insan,al_mursalat,an_naba,an_naziat,abasa,at_takwir,al_infitar,al_mutaffifin,al_insyiqaq,al_buruj,at_tariq,al_ala,al_gasyiyah,al_fajr,al_balad,asy_syams,al_lail,ad_duha,asy_syarh,at_tin,al_alaq,al_qadr,al_bayyinah,al_zalzalah,al_adiyat,al_qariah,at_takasur,al_asr,al_humazah,al_fil,quraisy,al_maun,al_kausar,al_kafirun,an_nasr,al_lahab,al_ikhlas,al_falaq,an_nas';
+
+var file = "001 Al Fatihaah,002 Al Baqoroh,003 Ali 'Imroon,004 An Nisaa',005 Al Maa'idah,006 Al An'aam,007 Al A'raaf,008 Al Anfaal,009 At Taubah,010 Yuunus,011 Huud,012 Yuusuf,013 Ar Ra'du,014 Ibrahim,015 Al Hijr,016 An Nahl,017 Al Israa',018 Al Kahfi,019 Maryam,020 Thooha,021 Al Anbiyaa,022 Al Haj,023 Al Mu'minuun,024 An Nuur,025 Al Furqoon,026 Asy Syu'aro,027 An Naml,028 Al Qoshosh,029 Al 'Ankabuut,030 Ar Ruum,031 Luqmaan,032 As Sajadah,033 Al Ahzaab,034 Saba',035 Faathir,036 Yaasiin,037 Ash Shooffaat,038 Shood,039 Az Zumar,040 Ghoofir,041 Fushshilat,042 Asy Syuro,043 Az Zukhruf,044 Ad Duhaan,045 Al Jaatsiyah,046 Al Ahqaf,047 Muhammad,048 Al Fath,049 Al Hujurot,050 Qoof,051 Adz Dzaariyat,052 Thuur,053 An Najm,054 Al Qomar,055 Ar Rohmaan,056 Al Waaqi'ah,057 Al Hadiid,058 Al Mujaadilah,059 Al Hasyr,060.Al Mumtahanahfix,061.Ash Shaff,062.Al Jumu'ah,063.Al Munafiqun,064.At Taghabun,065.At Talaq,066.At Tahrim,067.Al Mulk,068.Al Qalam,069.Al Haqqah,070.Al Ma'arij,071 Nuh,072 Al Jin,073 Al Muzzammil,074 Al Muddatsir,075 Al Qiyamah,076 Al Insaan,077.Al Mursalat,078 An Naba`,079 An Naazi'aat,080 'Abasa,081 At Takwiir,082 Al Infithoor,083 Al Muthoffifiin,084 Al Insyiqooq,085 Al Buruuj,086 Ath Thooriq,087 Al A'laa,088 Al Ghoosyiyah,089 Al Fajr,090 Al Balad,091 Asy Syams,092 Al Lail,093 Adh Dhuha,094 An Nasyroh,095 At Tiin,096 Al 'Alaq,097 Al Qodr,098 Al Bayyinah,099 Al Zalzalah,100 Al 'Aadiyaat,101 Al Qoori'ah,102 At Takaatsur,103 Al 'Ashr,104 Al Humazah,105 Al Fiil,106 Quroisy,107 Al Maa'uun,108 Al Kautsar,109 Al Kaafiruun,110 An Nashr,111 Al Masad,112 Al Ikhlas,113 Al Falaq,114 An Naas,115 Do'a Khattam"
+
+var juz = '1.1,2.142,2.253,3.92,4.24,4.148,5.83,6.111,7.88,8.41,9.94,11.6,12.53,15.2,17.1,18.75,21.1,23.1,25.21,27.60,29.45,33.31,36.22,39.32,41.47,46.1,51.31,58.1,67.1,78.1';
+
+var madaniyah = 'al_baqarah,ali_imran,an_nisa,al_maidah,al_anfal,at_taubah,al_hajj,an_nur,al_ahzab,muhammad,al_fath,al_hujurat,ar_rahman,al_hadid,al_mujadilah,al_hasyr,al_mumtahanah,as_saff,al_jumuah,al_munafiqun,at_tagabun,at_talaq,at_tahrim,al_insan,al_bayyinah,al_zalzalah,an_nasr';
+
+var source = Base64.decode('aHR0cHM6Ly9wbGF5Lm15LmlkL2hhZml6L2hxLmpz');
+var au_surat = source+'/mishary_rashid/'; //default: http://tafsirqu.com/murotal/mishary_rashid/
+var au_ayat = source+'/murotal/afasy/'; //default: http://tafsirqu.com/murotal/afasy/
+/*
+var scriptElem = document.createElement('script');
+scriptElem.src = Base64.decode('aHR0cHM6Ly9wbGF5Lm15LmlkL2hhZml6L2hxLmpz')+'?'+new Date().getTime();
+document.getElementsByTagName('head')[0].appendChild(scriptElem);
+*/
+var arr_juz = juz.split(',');
+var arr_madaniyah = madaniyah.split(',');
+var arr_files = file.split(',');
+
+function no_juz(kode){
+var n = arr_juz.includes(kode);
+var posisi = arr_juz.indexOf(kode)+1;
+if(n==true){
+return "juz "+posisi;
+}else{
+return "";
+}
+}
+
+function turun(surat){
+var n = arr_madaniyah.includes(surat);
+
+if(n==true){
+return "madaniyah";
+}else{
+return "makkiyah";
+}
+}
+
+if(localStorage.getItem('set_latin')===null){localStorage.setItem('set_latin','checked')};
+if(localStorage.getItem('set_arti')===null){localStorage.setItem('set_arti','checked')};
+if(localStorage.getItem('set_latar')===null){localStorage.setItem('set_latar','no_bg')};
+
+var arr_surat = surat.split(',');
+var ol_surat;
+var bismi;
+
+window.location.hash='';
+muat(localStorage.getItem('buka'));
+
+function muat(hash){
+document.getElementsByClassName('surat')[0].innerHTML = '';
+
+var buka = hash.replace(/surat_/g,'');
+var mulai;
+if(buka===null){
+	mulai= 0;
+	}else{
+	mulai = Number(arr_surat.indexOf(buka.replace(/_\d+/g,'')));
+	}
+	
+for(var i = mulai; i <= mulai; i++) {
+	var url = au_surat+arr_files[i]+'.mp3';
+	
+	if(arr_surat[i]!='at_taubah' && i!=0){bismi = '<p style="background: '+getColor()+'" class="bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</p>';}else{bismi='';}
+    //ol_surat += 
+    ol_surat = 
+	'<header class="nama_surat" id=surat_'+arr_surat[i]+'>'+
+	'<span onclick="PlayPause(&apos;au1&apos;,&apos;'+url+'&apos;)" style="opacity: 30%;margin-top: 3px;right: 85px;" class="play" onclick="play_m(this);"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="blue"><path d="M2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1zm2.765 5.576A.5.5 0 0 0 6 7v5a.5.5 0 0 0 .765.424l4-2.5a.5.5 0 0 0 0-.848l-4-2.5z"/><path d="M1.5 14.5A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zm13-1a.5.5 0 0 0 .5-.5V6a.5.5 0 0 0-.5-.5h-13A.5.5 0 0 0 1 6v7a.5.5 0 0 0 .5.5h13z"/></g></svg></span></span>'+
+	'<h1 class="page-title">'+Number(i+1)+'. '+arr_surat[i].replace(/_/g,' ')+' <sup class="ay_sup">'+window[arr_surat[i]].length+' ayat</sup><sup class="tu_sup">'+turun(arr_surat[i])+'</sup></h1></header>'+bismi+
+	'<ol id='+arr_surat[i]+'></ol>';
+	
+	generate_surat(arr_surat[i],window[arr_surat[i]]); //parameter function dengan array object
+    
+	//generate_surat('al_fatihah',al_fatihah);
+}
+document.getElementsByClassName('surat')[0].innerHTML = ol_surat.replace(/undefined/gm,'');
+}
+
+function generate_surat(nama,arr){ //nama string, nama array (harus sama)
+var keys = Object.keys(arr);
+var kode;
+var isi_surat = "";
+var s_latin, s_arti, s_latar;
+var awal, depan, s_hafal, s_hafiz, s_ayat;
+var arti_id,arti_en,artinya,ket_hafal;
+
+if(localStorage.getItem('set_hafiz')=='1'){
+var ket;
+	if(userLang=='id-ID'){
+	ket = '</span><b> Mode Hafiz:</b><br>&#x2714; Hanya menampilkan kata depan saja, untuk melihat selengkapnya ketuk pada ayat <br>&#x2714; Ceklis pada tombol &#9745; Hafal untuk menandai hafalan';
+	}
+	else{
+	ket ='</span><b> Hafiz Mode: </b><br>&#x2714; Only display the preposition only, to see the full verse tap on the verse <br>&#x2714; Checkmark &#9745; Memorized to mark memorization'
+	}
+	
+	mui_dialog('<span style="color:gold;font-size:20px;">'+el('hafiz').innerHTML+ket);
+	el('hafiz').setAttribute('data-toggled','1');
+	el('hafiz').style.backgroundColor='gold';
+	s_ayat='none';
+	s_hafiz='block';
+	localStorage.setItem('set_latin','0');
+	localStorage.setItem('set_arti','0');
+}
+else{
+	el('hafiz').setAttribute('data-toggled','0');
+	el('hafiz').removeAttribute('style');
+	s_ayat='block';
+	s_hafiz='none';
+	}
+
+if(localStorage.getItem('set_latin')=='checked'){s_latin="block"}else{s_latin="none"};
+if(localStorage.getItem('set_arti')=='checked'){s_arti="block"}else{s_arti="none"};
+if(localStorage.getItem('set_latar')=='bg_adem'){s_latar="bg_adem"}else{s_latar="no_bg"};
+  
+  var tanwin = 'ً ٌ ٍ ً';
+  var ikhfa = /(([ًٌٍ]+[ا|ى|ۙ]\s+|نْ|نْ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[ك|ق|ف|ظ|ط|ض|ص|ش|س|ز|ذ|د|ج|ث|ت])/g;
+  var iqlab = /((نْ|نْ\s+|نْۢ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[ب])/g;
+  var bigunah = /(([ًٌٍ]+[ا|ى|ۙ]\s+|نْ|نْ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[و|م|ن|ي])/g;
+  var bilagunah = /(([ًٌٍ]+[ا|ى|ۙ]\s+|نْ|نْ\s+|ٌ\s+|ً\s+|ٍ\s+|(ًٌٍ))[ل|ر])/g;
+  var mimi = /((مْ|مْ\s+)[م])/g;
+  var ifa_safawi = /((مْ|مْ\s+)[ب])/g;
+  var gunah = /([ن|م]+ّ)/g;
+  var qalqalah = /(([ق|ط|د|ج|ب][ْ|ّ])|([ق|ط|د|ج|ب][ٍٍ|ِ|ْ|ّ|ٌ|ُ|ً|َ][ۗ|ۘ|ۖ|ۛ|ۚ|ۙ]))/g
+  var rep1 = `<u class="ikhfa" onclick='tajwid(this.className)'>$1</u>`;
+  var rep2 = `<u class="iqlab" onclick='tajwid(this.className)'>$1</u>`;
+  var rep3 = `<u class="bigunah" onclick='tajwid(this.className)'>$1</u>`;
+  var rep4 = `<u class="bilagunah" onclick='tajwid(this.className)'>$1</u>`;
+  var rep5 = `<u class="mimi" onclick='tajwid(this.className)'>$1</u>`;
+  var rep6 = `<u class="ifa_safawi" onclick='tajwid(this.className)'>$1</u>`;
+  var rep7 = `<u class="gunah" onclick='tajwid(this.className)'>$1</u>`;
+  var rep8 = `<u class="qalqalah" onclick='tajwid(this.className)'>$1</u>`;
+
+//https://stackoverflow.com/questions/7695997/split-the-sentences-by-and-remove-surrounding-spaces
+for(var i = 0; i < arr.length; i++) {
+	arti_id=arr[i].at;
+	arti_en=window['en_'+pad(Number(arr_surat.indexOf(nama)+1),3)][i];
+	kode = Number(arr_surat.indexOf(nama)+1)+'.'+arr[i].id;
+	file = pad(Number(arr_surat.indexOf(nama)+1),3)+pad(arr[i].id,3)+'.mp3';
+	awal = arr[i].ar.trim().replace(/۞/g,'').trim();
+	depan = awal.split(" ").map(item => item.trim())[0]+' . . .'; //mengambil ayat depan saja
+	if(localStorage.getItem('hz_'+kode)!=null && localStorage.getItem('hz_'+kode)=='1'){s_hafal='checked'}else{s_hafal=''}
+	if(userLang=='id-ID'){artinya=arti_id,ket_hafal='Hafal';}else{artinya=arti_en,ket_hafal='Memorized';}
+	
+    isi_surat += 
+	'<li onclick="klik_ayat(&apos;'+nama+'_'+arr[i].id+'&apos;,&apos;'+file+'&apos;);" id='+nama+'_'+arr[i].id+' style="background: '+getColor()+'" class="'+s_latar+'">'+
+	'<sup class="no_ayat">'+kode+' '+no_juz(kode)+'</sup>'+
+	'<div class="mui-checkbox" style="display:'+s_hafiz+'"><label><input id="'+kode+'" onclick="hafal(this.id)" type="checkbox" '+s_hafal+'>'+ket_hafal+'</label><span class="hafiz" onclick="show_ayat(this);" style="display:'+s_hafiz+'">'+depan+'</span></div>'+
+	'<span class="ayat" title="'+nama+' ayat '+arr[i].id+'" style="display:'+s_ayat+'">'+arr[i].ar.replace(ikhfa, rep1).replace(iqlab, rep2).replace(bigunah, rep3).replace(bilagunah, rep4).replace(mimi, rep5).replace(ifa_safawi, rep6).replace(gunah, rep7).replace(qalqalah, rep8)+'</span>'+
+	'<span class="bacaan" style="display:'+s_latin+'">'+arr[i].bc+'</span>'+
+	'<span class="arti" style="display:'+s_arti+'">'+artinya+'</span>'+
+	'</li>';
+	if(arr.length - 1 === i) {
+	//console.log('render '+nama+' berhasil');
+	}
+}
+setTimeout(function(){
+document.getElementById(nama).innerHTML = isi_surat;
+}, 1000); 
+//console.log(arr);
+}
+
+function generate_hafalan(){
+	if(userLang=='id-ID'){
+	ket =['Pencapaian Hafalan'];
+	}
+	else{
+	ket =['Achievement of Memorization'];
+	}
+	var isi_hafalan='',persen='0',jumlah='0',nama,total,grand_total=Number('0');
+for(var i = 0; i < arr_surat.length; i++) {
+	nama=Number(i+1)+'. '+capitalizeName(arr_surat[i].replace(/_/g,' '));
+	total=window[arr_surat[i]].length;
+	jumlah=filterkeyname('hz_'+Number(i+1)+'.').length;
+	persen=(Number(jumlah/total)*Number(100)).toFixed(1);
+	isi_hafalan += '<li><div class="progress" style="background-size:'+persen+'% 100% !important;"><b>'+nama+'</b><br>'+jumlah+'/'+total+' ('+persen+'%)</div> </li>';
+	grand_total += Number(total);
+}
+	pencapaian = filterkeyname('hz_').length;
+	persentase = (Number(pencapaian/grand_total)*Number(100)).toFixed(1);
+	document.getElementById('hafalan').innerHTML='<b>'+ket[0]+' ('+persentase+'%)</b><br><ul id="progress">'+isi_hafalan.replace(/undefined/gm,'')+'</ul>';
+}
+generate_hafalan();
+
+function go_hash(hash_value){
+	var tagar = hash_value.replace(/surat_/,'');
+	var ayat = tagar.match(/\d+/g);
+	window.location.hash='';
+	//window.location.hash=hash_value;
+	if(hash_value!='hafalan'){
+	localStorage.setItem('buka',tagar);
+	muat(tagar);
+	//console.log(ayat);
+	if(ayat!=null){
+		setTimeout(function(){
+		window.location.replace('index.html#'+tagar.replace(/\d+/g,'')+Number(ayat-1));
+		},1000)
+	}else{
+		setTimeout(function(){
+		window.scrollTo(0, 0);
+		},1000)
+	}
+	}else{
+document.getElementsByClassName('surat')[0].innerHTML = '';
+	window.location.replace('index.html#'+tagar);
+	autocomplete_result.style.display='none';
+	}
+}
+function getColor(){
+  return "hsl(" + 360 * Math.random() + ',' +
+             (25 + 70 * Math.random()) + '%,' + 
+             (85 + 10 * Math.random()) + '%)'
+}
+
+function hapus_el(elem) {
+	var els = document.querySelectorAll(elem);
+  for (var i = 0; i < els.length; i++) {
+    els[i].remove();
+  }
+}
+
+function show_el(elem) {
+	//el('loading').style.display='block';
+	var els = document.querySelectorAll(elem);
+  for (var i = 0; i < els.length; i++) {
+    els[i].style.display='block';
+	/*console.log('show');
+	if(els.length - 1 === i) {
+	el('loading').style.display='none';
+	}*/
+  }
+}
+
+function hide_el(elem) {
+	//document.getElementById('loading').style.display='block';
+	var els = document.querySelectorAll(elem);
+  for (var i = 0; i < els.length; i++) {
+    els[i].style.display='none';
+	/*console.log('hide');
+	if(els.length - 1 === i) {
+	document.getElementById('loading').style.display='none';
+	}*/
+  }
+}
+
+function hapus_atr(elem,att) {
+	var els = document.querySelectorAll(elem);
+  for (var i = 0; i < els.length; i++) {
+    els[i].removeAttribute(att);
+  }
+}
+
+function set_atr(elem,att,val) {
+	var els = document.querySelectorAll(elem);
+  for (var i = 0; i < els.length; i++) {
+    els[i].setAttribute(att,val);
+  }
+}
+//hapus_el('.bacaan');
+//hapus_el('.arti');
+/*
+function search(e) {
+	let searched = document.getElementById("search").value.trim();
+  if (searched !== "") {
+  	let text = document.getElementById("text").innerHTML;
+  	let re = new RegExp(searched,"g"); // search for all instances
+		let newText = text.replace(re, `<mark>${searched}</mark>`);
+		document.getElementById("text").innerHTML = newText;
+  }
+}*/
+
+function popupClearAndHide() {
+  autocomplete_result.innerHTML = "";
+  autocomplete_result.style.display = "none";
+  document.getElementById("search").value ='';
+}
+
+RegExp.escape = function (s) {
+    return s.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+};
+
+function updPopup() {
+var ket,arti;
+	if(userLang=='id-ID'){
+	ket =['Terakhir Dibaca','ayat'];
+	}
+	else{
+	ket =['Last read','verses'];
+	}
+	
+  if(!search.value) {
+    popupClearAndHide();
+    return;
+  }
+  //var a = new RegExp("^" + search.value.replace(/ /g,'_'), "i");
+  var a = new RegExp(RegExp.escape(search.value.replace(/ /g,'_')), "i");
+  for(var x = 0, b = document.createDocumentFragment(), c = false; x < arr_surat.length; x++) {
+	  
+	if(userLang=='id-ID'){
+	arti = surah[x][3];
+	}
+	else{
+	arti = surah[x][7];
+	}
+	
+    if(a.test(arr_surat[x])) {
+      c = true;
+      var d = document.createElement("p");
+	  var go =arr_surat[x].replace(/ /g,'_').toLowerCase();
+      d.innerHTML = '<b>'+Number(x+1)+'. '+arr_surat[x].replace(/_/g,' ')+'</b> '+surah[x][2]+' ('+arti+') '+window[arr_surat[x]].length+' '+ket[1];
+      d.setAttribute("onclick", "go_hash('surat_"+go+"');autocomplete_result.innerHTML='';autocomplete_result.style.display='none';");
+      b.appendChild(d);
+    }
+  }
+  if(c == true) {
+  var terakhir = '<p onclick="terakhir_baca();">&#182; <b>'+ket[0]+'</b></p>';
+    autocomplete_result.innerHTML = "";
+    autocomplete_result.style.display = "block";
+    autocomplete_result.appendChild(b);
+    return;
+  }
+  popupClearAndHide();
+}
+function fokus(){
+	document.getElementById("search").click();
+}
+search.addEventListener("keyup", updPopup);
+search.addEventListener("change", updPopup);
+search.addEventListener("focus", updPopup_show);
+document.getElementById("nav-trigger").nextElementSibling.addEventListener("click", popupClearAndHide);
+
+
+	if(userLang=='id-ID'){
+	document.getElementById('search').setAttribute('placeholder','Ketik nama surat & pilih hasil pencarian.');
+	}
+	else{
+	document.getElementById('search').setAttribute('placeholder','Type surah name & select search result.');
+	}
+	
+function updPopup_show() {
+var ket,arti;
+	if(userLang=='id-ID'){
+	ket =['Terakhir Dibaca','ayat'];
+	}
+	else{
+	ket =['Last read','verses'];
+	}
+  //var a = new RegExp("^" + search.value.replace(/ /g,'_'), "i");
+  var a = new RegExp(RegExp.escape(search.value.replace(/ /g,'_')), "i");
+  for(var x = 0, b = document.createDocumentFragment(), c = false; x < arr_surat.length; x++) {
+	  
+	if(userLang=='id-ID'){
+	arti = surah[x][3];
+	}
+	else{
+	arti = surah[x][7];
+	}
+	
+    if(a.test(arr_surat[x])) {
+      c = true;
+      var d = document.createElement("p");
+	  var go =arr_surat[x].replace(/ /g,'_').toLowerCase();
+      d.innerHTML = '<b>'+Number(x+1)+'. '+arr_surat[x].replace(/_/g,' ')+'</b> '+surah[x][2]+' ('+arti+') '+window[arr_surat[x]].length+' '+ket[1];
+      d.setAttribute("onclick", "go_hash('surat_"+go+"');autocomplete_result.innerHTML='';autocomplete_result.style.display='none';");
+      b.appendChild(d);
+    }
+  }
+  var terakhir = '<p onclick="terakhir_baca();">&#182; <b>'+ket[0]+'</b></p>';
+    autocomplete_result.innerHTML = "";
+    autocomplete_result.style.display = "block";
+    autocomplete_result.appendChild(b);
+	autocomplete_result.innerHTML=terakhir+autocomplete_result.innerHTML;
+    return;
+}
+
+function toggle_set_latar(id) {
+  let toggleButton = document.getElementById(id);
+  if (toggleButton.checked) {
+    toggleButton.checked = true;
+	localStorage.setItem(id,'no_bg'); 
+	document.querySelectorAll('ol > li').forEach(item => {
+		item.className='no_bg';
+	})
+  } else {
+    toggleButton.checked = false;
+	localStorage.setItem(id,'bg_adem');
+	document.querySelectorAll('ol > li').forEach(item => {
+		item.className='bg_adem';
+	})
+  }
+}
+
+function toggle_set_color(id) {
+  let toggleButton = document.getElementById(id);
+  if (toggleButton.checked) {
+    toggleButton.checked = true;
+	localStorage.setItem(id,'0'); 
+	document.querySelectorAll('ol > li > span > u').forEach(item => {
+		//item.setAttribute('style','');
+		item.removeAttribute('style');
+	})
+  } else {
+    toggleButton.checked = false;
+	localStorage.setItem(id,'c_black');
+	document.querySelectorAll('ol > li > span > u').forEach(item => {
+		item.setAttribute('style','color:black !important;');
+	})
+  }
+}
+
+/*fungsi untuk show/hide https://stackoverflow.com/a/21070237/4063684*/
+function toggle(id, elements, specifiedDisplay) {
+  let toggleButton = document.getElementById(id);
+  var element, index;
+
+  elements = elements.length ? elements : [elements];
+  for (index = 0; index < elements.length; index++) {
+    element = elements[index];
+
+    if (isElementHidden(element)) {
+    toggleButton.checked = true;
+	localStorage.setItem(id,'checked');
+      element.style.display = '';
+
+      // If the element is still hidden after removing the inline display
+      if (isElementHidden(element)) {
+        element.style.display = specifiedDisplay || 'block';
+      }
+    } else {
+    toggleButton.checked = false;
+	localStorage.setItem(id,'0');
+      element.style.display = 'none';
+    }
+  }
+  function isElementHidden (element) {
+    return window.getComputedStyle(element, null).getPropertyValue('display') === 'none';
+  }
+}
+
+function notif_ayat(el){
+var ket;
+	if(userLang=='id-ID'){
+	ket = 'Cari di surat '+capitalizeName(localStorage.getItem('buka').replace(/_/g,' '))+'..!';
+	}
+	else{
+	ket = 'Search in surah '+capitalizeName(localStorage.getItem('buka').replace(/_/g,' '))+'..!';
+	}
+	
+	if(el.textContent!='X'){
+		if(localStorage.getItem('set_hafiz')=='1'){
+			localStorage.setItem('set_hafiz','0');
+			localStorage.setItem('set_arti','checked');
+			alert(ket);
+			//window.location.replace('index.html');
+			muat(localStorage.getItem('buka'));
+		}else{
+			localStorage.setItem('set_arti','checked');
+			show_el('.arti');
+			alert(ket);
+			//mui_dialog('&#x2714; Untuk pergi ke surat ketik: <b>no_surat</b>+titik+<b>no_ayat</b> <br>contoh: <b style="color:red">7.204</b><br>&#x2714; Untuk pergi ke juz ketik: <b>juz</b>+spasi+<b>no_juz</b><br>contoh: <b style="color:red">juz 30</b>');
+		}
+	}
+}
+
+/*fungsi untuk gulir otomatis*/
+var shouldScroll = false;
+
+function scroll() {
+  if (!shouldScroll) {
+    return;
+  }
+  window.scrollBy(0, 1);
+  setTimeout(scroll, 120);
+}
+
+document.getElementById('gulir').addEventListener('click', function() {
+  this.innerHTML = (this.dataset.toggled ^= 1) ? '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M10 18a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v12zm7 0a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v12z" fill="white" fill-rule="evenodd"/></svg>' : '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M16.939 10.939L12 15.879l-4.939-4.94l-2.122 2.122L12 20.121l7.061-7.06z" fill="black"/><path d="M16.939 3.939L12 8.879l-4.939-4.94l-2.122 2.122L12 13.121l7.061-7.06z" fill="black"/></svg>';
+  shouldScroll = !shouldScroll;
+  scroll();
+});
+
+/*fungsi untuk show/hide*/
+var hafiz;
+if(localStorage.getItem('set_hafiz')=='1'){
+	hafiz = true;
+}else{hafiz = false;}
+
+function hafizin() {
+	if(userLang=='id-ID'){
+	ket = ['Mode normal aktif','Mode hafiz diaktifkan'];
+	}
+	else{
+	ket = ['Normal mode enabled','Hafiz mode enabled'];
+	}
+  if (!hafiz) {
+	  /*
+	  hide_el('.hafiz');
+	  show_el('.ayat');
+	  */
+	  alert(ket[0]);
+	  localStorage.setItem('set_hafiz','0');
+	  //console.log('nonaktif');
+	  //window.location.replace('index.html');
+	  muat(localStorage.getItem('buka'));
+    return;
+  }
+  hafizin;
+	  /*
+	  hide_el('.ayat');
+	  show_el('.hafiz');
+	  if(localStorage.getItem('set_latin')=='1'){
+		hide_el('.bacaan');}
+	  if(localStorage.getItem('set_arti')=='1'){
+		hide_el('.arti');
+	  }
+	  */
+	  alert(ket[1]);
+	  localStorage.setItem('set_latin','0');
+	  localStorage.setItem('set_arti','0');
+	  localStorage.setItem('set_hafiz','1');
+	  //window.location.replace('index.html');
+	  muat(localStorage.getItem('buka'));
+	  //console.log('aktif');
+}
+
+document.getElementById('hafiz').addEventListener('click', function() {
+  this.style.backgroundColor = (this.dataset.toggled ^= 1) ? "gold" : "none";
+  hafiz = !hafiz;
+  hafizin();
+});
+
+function hafal(id){
+	elm = document.getElementById(id);
+  if (elm.checked) 
+  {
+	localStorage.setItem('hz_'+id,'1');
+  } else {
+	localStorage.removeItem('hz_'+id);
+  }
+  generate_hafalan();
+}
+
+	var cs_bacaan = document.getElementsByClassName('bacaan')[0];
+	var cs_arti = document.getElementsByClassName('arti')[0];
+
+document.getElementById('atur').addEventListener('click', function() {
+	pengaturan();
+});
+
+/*fungsi cek tekan lama longclick https://stackoverflow.com/a/60207895/4063684*/
+function onLongPress(element, callback) {
+  let timer;
+
+  element.addEventListener('touchstart', () => { 
+    timer = setTimeout(() => {
+      timer = null;
+      callback();
+    }, 500);
+  });
+
+  function cancel() {
+    clearTimeout(timer);
+  }
+
+  element.addEventListener('touchend', cancel);
+  element.addEventListener('touchmove', cancel);
+}
+
+setTimeout(function(){
+document.querySelectorAll('.arti').forEach(item => {
+  item.addEventListener('click', event => {
+    //alert(item.textContent);
+  })
+})
+
+document.querySelectorAll('ol > li').forEach(item => {
+	onLongPress(item, () => {
+	alert('Ayat ini ditandai sebagai Terakhir Baca');
+	localStorage.setItem('terakhir_baca',item.id);
+});
+})
+}, 9000); 
+
+function tandai(hash){
+var ket;
+	if(userLang=='id-ID'){
+	ket =['Ayat ini ditandai sebagai Terakhir Baca'];
+	}
+	else{
+	ket =['This verse is marked as Last Read'];
+	}
+	alert(ket[0]);
+	localStorage.setItem('terakhir_baca',hash);
+}
+
+function terakhir_baca(){
+var ket;
+	if(userLang=='id-ID'){
+	ket =['Terakhir dibaca','Belum ada ayat yang ditandai sebagai Terakhir Baca \nSilahkan ketuk pada salah satu ayat untuk menandai'];
+	}
+	else{
+	ket =['Last read','There are no verses marked as Last Read. \nPlease tap on a verse to mark it'];
+	}
+	
+	var latest=localStorage.getItem('terakhir_baca');
+	if(latest!=null){
+	alert(ket[0]+' '+capitalizeName(latest.replace(/_/g,' ')));
+	go_hash(latest);
+	}else{
+	alert(ket[1]);
+	}
+	autocomplete_result.innerHTML='';autocomplete_result.style.display='none';
+}
+
+document.getElementById('tanda').addEventListener('click', function() {
+	terakhir_baca();
+});
+
+document.getElementById('capaian').addEventListener('click', function() {
+	go_hash('hafalan');
+});
+
+function capitalizeName(name) {
+  return name.replace(/\b(\w)/g, s => s.toUpperCase());
+}
+updPopup_show();
+
+function clearID() {
+    if (arguments.length > 0) {
+        for (var i = 0; i < arguments.length; i++) {
+            document.getElementById(arguments[i]).value = "";
+        }
+    }
+}
+
+function hapus_atr(elem, att) {
+    var els = document.querySelectorAll(elem);
+    for (var i = 0; i < els.length; i++) {
+        els[i].removeAttribute(att);
+    }
+}
+
+function el(id) {
+    return document.getElementById(id);
+}
+
+function els(cl, n) {
+    return document.getElementsByClassName(cl)[n];
+}
+function close_mui_dialog(){
+	el = document.getElementById('mui-overlay');
+	if(el!=null){el.remove();}
+	document.body.removeAttribute('class');
+}
+
+function mui_dialog(message, command, title = '') {
+    // initialize modal element
+    var close = ";this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode);document.body.removeAttribute(&apos;class&apos;)";
+    var ads = ";admob.interstitial.prepare();admob.interstitial.show();";
+    var modalEl = document.createElement('div');
+    modalEl.style.width = '300px';
+    modalEl.style.minHeight = '170px';
+    modalEl.style.margin = 'auto';
+    modalEl.style.padding = '15px';
+    modalEl.style.position = 'absolute';
+    modalEl.style.top = '50%';
+    modalEl.style.left = '50%';
+    modalEl.style.transform = 'translate(-50%, -50%)';
+    modalEl.style.backgroundColor = '#fff';
+    modalEl.innerHTML += '<div class="mui-container"><div class="mui--text-title">' + title + '</div><br><div class="mui--text-body2">' + message + '</div></div>';
+    //modalEl.innerHTML += '<button class="mui-btn mui-btn--flat mui-btn--primary" style="float:right;background-color:#eee;margin-left:5px;" onclick=' + command + close + '><strong>OK</strong></button>';
+    if (command != null && command !== 0) {
+        modalEl.innerHTML += '<button class="mui-btn mui-btn--flat" style="float:right;background-color:#eee;" onclick=' + close + ads +'><strong>Cancel</strong></button>';
+    }
+    // show modal
+    mui.overlay('on', modalEl);
+}
+var txt_selected;
+function getSelectionText() {
+    var text = "";
+    var activeEl = document.activeElement;
+    var activeElTagName = activeEl ? activeEl.tagName.toLowerCase() : null;
+    if (
+      (activeElTagName == "textarea") || (activeElTagName == "input" &&
+      /^(?:text|search|password|tel|url)$/i.test(activeEl.type)) &&
+      (typeof activeEl.selectionStart == "number")
+    ) {
+        text = activeEl.value.slice(activeEl.selectionStart, activeEl.selectionEnd);
+    } else if (window.getSelection) {
+        text = window.getSelection().toString();
+    }
+    return text;
+}
+
+document.onmouseup = document.onkeyup = document.onselectionchange = function() {
+  txt_selected = getSelectionText();
+};
+
+function show_ayat(el){
+	var ayat = el.parentNode.parentNode.getElementsByClassName('ayat')[0];
+	//console.log(ayat.innerHTML);
+	ayat.style.display = (ayat.dataset.toggled ^= 1) ? "block" : "none";
+	el.style.color = (el.dataset.toggled ^= 1) ? "gold" : "black";
+}
+
+function klik_ayat(id,file){
+var ket;
+	if(userLang=='id-ID'){
+	ket =['Play ayat','Play Surat','Tandai sebagai Terakhir Baca','Salin Ayat','Bagikan Ayat'];
+	}
+	else{
+	ket =['Play verse','Play surah','Mark as Last Read','Copy verse','Share verse'];
+	}
+	
+	if(localStorage.getItem('set_hafiz')=='1'){
+		//console.log('mode_hafiz');
+	}
+	else{
+		var nama= capitalizeName(id.replace(/_/g,' '));
+		var url1 = au_ayat+file;
+		var no_srt = Number(arr_surat.indexOf(id.replace(/_\d+/g,'')));
+		var url2 = au_surat+arr_files[no_srt]+'.mp3';
+		
+		//pad(Number(i+1), 3);
+		var play_btn = '<span style="position:relative;margin:0px;font-size:15px;color:blue;" class="play" onclick="PlayPause(&apos;au1&apos;,&apos;'+url1+'&apos;);close_mui_dialog()"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 21a9 9 0 1 0 0-18a9 9 0 0 0 0 18zm0 2c6.075 0 11-4.925 11-11S18.075 1 12 1S1 5.925 1 12s4.925 11 11 11z" fill="blue"/><path d="M16 12l-6 4.33V7.67L16 12z" fill="blue"/></g></svg> '+ket[0]+'</span>';
+		var play_btn_all = '<span style="position:relative;margin:0px;font-size:15px;color:blue;" class="play_all" onclick="PlayPause(&apos;au1&apos;,&apos;'+url2+'&apos;);close_mui_dialog()"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="blue"><path d="M2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1zm2.765 5.576A.5.5 0 0 0 6 7v5a.5.5 0 0 0 .765.424l4-2.5a.5.5 0 0 0 0-.848l-4-2.5z"/><path d="M1.5 14.5A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zm13-1a.5.5 0 0 0 .5-.5V6a.5.5 0 0 0-.5-.5h-13A.5.5 0 0 0 1 6v7a.5.5 0 0 0 .5.5h13z"/></g></svg> '+ket[1]+'</span>'
+		
+    mui_dialog("<b>"+nama+"</b><br><br>"+play_btn+"<br><br>"+play_btn_all+"<br><br><a onclick=tandai('"+id+"');close_mui_dialog()>&#182; "+ket[2]+"</a><br><br>"+
+	"<a onclick=salin('"+id+"');close_mui_dialog()>&#10063; "+ket[3]+"</a><br><br>"+
+	"<a onclick=bagikan('"+id+"');close_mui_dialog()>&#10149; "+ket[4]+"</a><br>"+
+	"&nbsp;")
+	}
+}
+function salin(id){
+	var isi;
+	if(txt_selected==''){
+    isi = 'QS: '+Array.from(document.getElementById(id).children, ({textContent}) => textContent.trim()).filter(Boolean).join('\r\n');
+	arr_isi = isi.split('\r\n');
+	saring = arr_isi.filter((x, i) => i !== 1);
+	isi = saring.join('\r\n');
+	}else{isi=txt_selected}
+    if((/Mobi|Android/i.test(navigator.userAgent))){
+    cordova.plugins.clipboard.copy(isi);
+    alert('telah disalin')
+    }else{alert(isi);}
+}
+function bagikan(id){
+	var isi;
+	if(txt_selected==''){
+    isi = 'QS: '+Array.from(document.getElementById(id).children, ({textContent}) => textContent.trim()).filter(Boolean).join('\r\n');
+	arr_isi = isi.split('\r\n');
+	saring = arr_isi.filter((x, i) => i !== 1);
+	isi = saring.join('\r\n');
+	}else{isi=txt_selected}
+    if((/Mobi|Android/i.test(navigator.userAgent))){
+    window.plugins.socialsharing.share(isi)
+    }else{alert(isi);}
+}
+
+//https://stackoverflow.com/a/57127781/4063684
+const toggleCSSclasses = (el, ...cls) => cls.map(cl => el.classList.toggle(cl));
+
+const toggleClass = (el, className) => el.classList.toggle(className);
+
+function ganti_bg(id){
+//toggleCSSclasses(document.querySelector("ol > li"), "no_bg");
+toggleClass(document.querySelector('ol > li > span > u'), '.c_black');
+}
+
+function pengaturan(){
+var ket;
+	if(userLang=='id-ID'){
+	ket =['Pengaturan','Tampilkan Latin Arab','Tampilkan Terjemahan','Warna Latar Acak','Tajwid'];
+	}
+	else{
+	ket =['Settings','Show Latin Arabic','Show Translation','Random Background Color','Tajweed'];
+	}
+	
+var s_latar,s_tajwid;
+var about = '<sub>&#169; App Develop by: <b>Hedi Herdiana</b><br>Support: aahedi@gmail.com</sub>';
+if(localStorage.getItem('set_latar')=='no_bg'){s_latar='checked'}else{s_latar='0';}
+if(localStorage.getItem('set_tajwid')=='c_black'){s_tajwid='0'}else{s_tajwid='checked';}
+var latin = '<div class="mui-checkbox"><label><input id="set_latin" onclick="toggle(this.id,document.querySelectorAll(&apos;.bacaan&apos;))" type="checkbox" '+localStorage.getItem('set_latin')+'>'+ket[1]+'</label> </div>';
+var arti = '<div class="mui-checkbox"><label><input id="set_arti" onclick="toggle(this.id,document.querySelectorAll(&apos;.arti&apos;))"  type="checkbox" '+localStorage.getItem('set_arti')+'>'+ket[2]+'</label> </div>';
+var latar = '<div class="mui-checkbox"><label><input id="set_latar" onclick="toggle_set_latar(this.id)"  type="checkbox" '+s_latar+'>'+ket[3]+'</label> </div>';
+var tajwid = '<div class="mui-checkbox"><label><input id="set_tajwid" onclick="toggle_set_color(this.id)"  type="checkbox" '+s_tajwid+'>'+ket[4]+'</label> </div>';
+
+    mui_dialog("<b>"+ket[0]+"</b>"+
+	latin+arti+latar+tajwid+about+
+	"<br>&nbsp;")
+	/*
+  toggle(document.querySelectorAll('.bacaan'));
+  toggle(document.querySelectorAll('.arti'));
+  */
+}
+
+function filterkeyname(string){
+	var filtered = [];
+	for (var i = 0; i < localStorage.length; i++) {
+
+  // set iteration key name
+  var key = localStorage.key(i);
+
+  // use key name to retrieve the corresponding value
+  var value = localStorage.getItem(key);
+
+  // console.log the iteration key and value
+  //console.log('Key: ' + key + ', Value: ' + value);
+  
+   if(key.indexOf(string) > -1){
+	   filtered.push(key);
+   };
+}
+return filtered;
+}
+
+function PlayPause(id,s) {
+	var ket;
+	if(userLang=='id-ID'){
+	ket = 'tidak bisa diputar, silahkan nyalakan internet anda';
+	}
+	else{
+	ket = 'can not be played, please turn on your internet';
+	}
+
+	var filename = s.split('/').pop();
+	var sound = document.getElementById(id);
+	sound.src = s;
+	sound.volume = 1;
+	sound.loop = true;
+	sound.onerror = function(){ alert(filename+' tidak bisa diputar silahkan nyalakan internet anda'); };
+	// Show loading animation.
+	var playPromise = sound.paused ? sound.play() : sound.pause();
+
+	if (playPromise !== undefined) {
+		playPromise.then(_ => {})
+			.catch(error => {});
+	}
+
+}
+
+function pad(num, size) {
+    num = num.toString();
+    while (num.length < size) num = "0" + num;
+    return num;
+}
+
+function tajwid_ket(isi){
+	  if(localStorage.getItem('set_hafiz')=='1'){
+		  return mui_dialog(isi);
+	  }else{
+		  var regex = /(<([^>]+)>)/ig;
+		  result = isi.replace(regex, "");
+		  return alert(result);
+	  }
+}
+  function tajwid(nama){
+	  var n;
+	  if(localStorage.getItem('set_hafiz')=='1'){
+		  n = '<br>';
+	  }else{
+		  n= '\n\r';
+	  }
+	  
+	if(userLang=='id-ID'){
+	
+	  if(nama=='ikhfa'){
+		  tajwid_ket('<b style="color:red;">Ikhfa</b> artinya samar-samar. (seperti bunyi <i>ng</i> dalam bahasa Indonesia).'+n+
+		  'Hurufnya ada 15, yaitu :'+n+
+		  'ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت'+n+
+		  'Ikhfa adalah apabila ada <i>nun mati</i> atau <i>tanwin</i> bertemu dengan salah satu hurufnya, maka dibacanya samar-samar.'
+		  )
+	  }
+	  else if(nama=='iqlab'){
+		  tajwid_ket('<b style="color:blue;">Iqlab</b> artinya mengganti (mengganti huruf nun ke huruf mim).'+n+
+		  'Hurufnya ada 1, yaitu : ب'+n+
+		  'Iqlab adalah apabila huruf <i>nun mati atau tanwin</i> bertemu dengan huruf Ba’, maka dibacanya balem.'
+		  )
+	  }
+	  else if(nama=='bigunah'){
+		  tajwid_ket('<b style="color:purple;">Idgham Bigunnah</b> artinya dengan dengung (menahan huruf yang masuk sebanyak 2 harkat)'+n+
+		  'Hurufnya ada 4, yaitu :(يمنو)    ي م ن و'+n+
+		  'Idgham bigunnah adalah apabila ada huruf <i>nun mati atau tanwin</i> bertemu dengan salah satu hurufnya, maka dibacanya harus berdengung.'
+		  )
+	  }
+	  else if(nama=='bilagunah'){
+		  tajwid_ket('<b style="color:gray;">Idgham Bilagunnah</b> Artinya : tidak dengan dengung.'+n+
+		  'Hurufnya ada 2, yaitu : ر ل'+n+
+		  'Idgham bilagunnah adalah apabila ada <i>nun mati atau tanwin</i> bertemu dengan salah satu hurufnya, maka dibacanya tidak berdengung.'
+		  )
+	  }
+	  else if(nama=='mimi'){
+		  tajwid_ket('<b style="color:yellowgreen;">Idgham Mimi</b> Mutajanisain artinya yang sejenis'+n+
+		  'Hurufnya ada 1, yaitu :   م'+n+
+		  'Idgham Mimi adalah apabila ada <i>mim mati</i> bertemu dengan <i>mim hidup</i>, maka dibacanya harus berdengung.'
+		  )
+	  }
+	  else if(nama=='ifa_safawi'){
+		  tajwid_ket('<b style="color:deeppink;">Ikhfa Safawi</b> Hurufnya ada 1, yaitu :   ب'+n+
+		  'Ikhfa Safawi adalah apabila ada <i>mim mati</i> bertemu dengan huruf <i>ba’ hidup</i>, maka dibacanya harus berdengung.'
+		  )
+	  }
+	  else if(nama=='gunah'){
+		  tajwid_ket('<b style="color:darkorange;">Gunnah Masydidah</b> artinya ditahan lama karena <i>tasydid</i>.'+n+
+		  'Hurufnya ada 2, yaitu : مّ , نّ'+n+
+		  'Apabila terdapat <i>nun siddah dan atau mim siddah</i> sebelum huruf hijaiyyah berharkat, maka dibacanya bergunnah (ditahan sepanjang 3 harkat).'
+		  )
+	  }
+	  else if(nama=='qalqalah'){
+		  tajwid_ket('<b style="color:green;">Qalqalah</b> artinya kerongkongan (huruf hijaiyyah yang mati, diceklokkan).'+n+
+		  'Hurufnya ada 5, yaitu : ق ط د ج ب'+n+
+		  'Qolqolah dibagi menjadi 2, yaitu :'+n+
+		  '1. Qolqolah Sughra ( سغرى  )'+n+
+		  'Sughra artinya : ringan (kecil).'+n+
+		  'Qolqolah Sughra adalah apabila ada salah satu huruf qolqolah mati karena sukun, maka dibacanya diceklokkan.'+n+
+		  'Contohnya :'+n+
+		  'لقدْ , حبْل , طلق ,  أطْعمهم ,  أجْر'+n+
+		  '2. Qolqolah Kubra ( قبرﻯ  )'+n+
+		  'Kubra artinya : dahsyat (besar).'+n+
+		  'Qolqolah Kubra adalah apabila ada salah satu huruf qolqolah mati di akhir kalimat (karena waqof), maka dibacanya diceklokkan.'
+		  )
+	  }
+	  
+	}
+	else{
+		
+		if (nama == 'ikhfa') {
+			tajwid_ket('<b style = "color: red;"> Ikhfa </b> means vague. (like the sound <i> ang </i> in English).' + n +
+				'There are 15 letters, namely:' + n +
+				'ك ق ف ظ ط ض ص ش س ز ذ د ج ث ت' + n +
+				'Ikhfa is if a <i> nun mati or tanwin </i> meets one of the letters, then it will be vaguely read. '
+			)
+		} else if (nama == 'iqlab') {
+			tajwid_ket('<b style = "color: blue;"> Iqlab </b> means changing (changing the letter nun to the letter meem).' + n +
+				'The letter has 1, namely: ب' + n +
+				'Iqlab is when the letter <i> nun death or tanwin </i> meets the letter Ba, then it is read balem. '
+			)
+		} else if (nama == 'bigunah') {
+			tajwid_ket('<b style = "color: purple;"> Idgham Bigunnah </b> means by buzzing (holding 2 digits of incoming letters)' + n +
+				'There are 4 letters, namely: (يمنو) ي م ن و' + n +
+				'Idgham bigunnah is if a letter <i> nun mati or tanwin </i> meets one of the letters, then it must be read buzzing.'
+			)
+		} else if (nama == 'bilagunah') {
+			tajwid_ket('<b style = "color: gray;"> Idgham Bilagunnah </b> Meaning: not with a drone.' + n +
+				'There are 2 letters, namely: ر ل' + n +
+				'Idgham bilagunnah is if there is <i> nun mati or tanwin </i> meeting one of the letters, then it will not be read buzzing.'
+			)
+		} else if (nama == 'mimi') {
+			tajwid_ket('<b style = "color: yellowgreen;"> Idgham meemi </b> Mutajanisain means the same' + n +
+				'There is 1 letter, namely: م' + n +
+				'Idgham meemee is if there is a dead meem who meets a live meem, then the reading must be buzzing.'
+			)
+		} else if (nama == 'ifa_safawi') {
+			tajwid_ket('<b style = "color: deeppink;"> Ikhfa Safawi </b> There is 1 letter, namely: ب' + n +
+				'Ikhfa Safawi is if there is a <i> dead meem </i> meets the letter" ba "alive </i>, then the reading must be buzzing.'
+			)
+		} else if (nama == 'gunah') {
+			tajwid_ket('<b style = "color: darkorange;"> Gunnah Masydidah </b> means being detained for a long time because of <i> tasydid </i>.' + n +
+				'There are 2 letters, namely: مّ, نّ' + n +
+				'If there is <i> nun siddah or meem siddah </i> before the hijaiyyah letter has a dignity, then it is read useless (held for 3 digits). '
+			)
+		} else if (nama == 'qalqalah') {
+			tajwid_ket('<b style = "color: green;"> Qalqalah </b> means the throat (hijaiyyah letters that are dead, choked).' + n +
+				'There are 5 letters, namely: ق ط د ج ب' + n +
+				'Qolqolah is divided into 2, namely:' + n +
+				'1. Qolqolah Sughra (سغرى) ' + n +
+				'Sughra means: light (small).' + n +
+				'Sughras Qolqolah is if one of the qolqolah letters dies because of breadfruit, then it is read it is blocked.' + n +
+				'For example:' + n +
+				'لقدْ, حبْل, طلق, أطْعمهم, أجْر' + n +
+				'2. Qolqolah Kubra (قبرﻯ) ' + n +
+				'Kubra means: terrible (big).' + n +
+				'Qolqolah Kubra is if one of the qolqolah letters dies at the end of a sentence (because of waqof), then reading it is blocked.'
+			)
+		}
+		
+	}
+  }
