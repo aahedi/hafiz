@@ -32,9 +32,9 @@
 <plugin name="cordova-plugin-shake"/>
 <plugin name="cordova-plugin-video-thumbnail"/>
 <plugin name="cordova-plugin-device" spec="2.0.2"/>
-<plugin name="cordova-plugin-file" spec="6.0.1"/>
+<plugin name="cordova-plugin-file"/>
 <plugin name="cordova-plugin-filepath"/>
-<plugin name="cordova-plugin-file-transfer" spec="1.7.1"/>
+<plugin name="cordova-plugin-file-transfer"/>
 <plugin name="cordova-plugin-inappbrowser" spec="3.0.0"/>
 <plugin name="cordova-plugin-dialogs" spec="2.0.1"/>
 <plugin name="cordova-plugin-camera" spec="4.0.3"/>
@@ -114,9 +114,6 @@
 <platform name="android">
 <preference name="AndroidLaunchMode" value="singleTask"/>
 <preference name="SplashMaintainAspectRatio" value="false"/>
-  <edit-config file="AndroidManifest.xml" target="/manifest/application" mode="merge"> 
-   <application android:requestLegacyExternalStorage="true" />
-  </edit-config>
 </platform>
 <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect --ignore-gpu-blacklist "/>
 <platform name="android" >
