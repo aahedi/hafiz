@@ -114,6 +114,9 @@
 <platform name="android">
 <preference name="AndroidLaunchMode" value="singleTask"/>
 <preference name="SplashMaintainAspectRatio" value="false"/>
+  <edit-config file="AndroidManifest.xml" target="/manifest/application" mode="merge"> 
+   <application android:requestLegacyExternalStorage="true" />
+  </edit-config>
 </platform>
 <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect --ignore-gpu-blacklist "/>
 <platform name="android" >
@@ -133,7 +136,6 @@
     <activity android:launchMode="singleTop" />
 </config-file>
 <edit-config file="AndroidManifest.xml" target="/manifest/uses-sdk" mode="merge">
- <application android:requestLegacyExternalStorage="true" />
 <intent-filter>
     <action android:name="android.intent.action.SEND" />
     <category android:name="android.intent.category.DEFAULT" />
