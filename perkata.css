@@ -1,0 +1,33 @@
+/* https://quranwbw.com */
+.single-word{
+	width: min-content;
+	height: 100px;
+	margin: 0 2px;
+}
+.word-arabic{
+	-webkit-text-stroke: thin;
+    -webkit-text-stroke-width: thin;
+    text-shadow: 0 0 black;
+    margin:0px;
+    padding: 0px;
+	font-size: 1.8em;
+}
+.word-translation {
+    overflow: hidden;
+    max-height: 45px;
+    overflow-wrap: break-word;
+    line-height: initial;
+    font-size: 12px;
+    border-left: 1px lightgray solid;
+    padding: 0px 0px 0px 3px;
+}
+.word-transliteration{
+    overflow: hidden;
+    height: 12px;
+    overflow-wrap: anywhere;
+    padding: 0px;
+    line-height: initial;
+    margin-top: -5px;
+    color: lightgray;
+    font-size: 11px;
+}
