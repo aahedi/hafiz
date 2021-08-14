@@ -1,7 +1,7 @@
 /* https://quranwbw.com */
 .single-word{
 	width: min-content;
-	height: 100px;
+	height: 95px;
 	margin: 0 2px;
 }
 .word-arabic{
@@ -20,6 +20,8 @@
     font-size: 12px;
     border-left: 1px lightgray solid;
     padding: 0px 0px 0px 3px;
+    hyphens: auto;
+    text-align: center;
 }
 .word-transliteration{
     overflow: hidden;
@@ -30,4 +32,5 @@
     margin-top: -5px;
     color: lightgray;
     font-size: 11px;
+    text-align: center;
 }
